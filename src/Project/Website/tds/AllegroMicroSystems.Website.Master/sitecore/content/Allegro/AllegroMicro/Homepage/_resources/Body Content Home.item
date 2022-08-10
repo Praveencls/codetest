@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {27A2C653-C896-4196-BFB3-EEDD511BE6F7}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Body Content Home
+parent: {4D08E910-BDE8-44AF-A982-FE11806BA86B}
+name: Body Content Home
+master: {00000000-0000-0000-0000-000000000000}
+template: {59A2130F-E575-4F2D-8178-B4955C40A9E5}
+templatekey: Body Content
+created: 20190417T044813Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: db7e6ed8-5cd6-49d4-887d-6c4e2485e218
+
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 11
+
+Lorem Ipsum
+----field----
+field: {8E8BEFB8-6D75-4599-AE25-C3BDF25CF0EB}
+name: Content
+key: content
+content-length: 1667
+
+<p>The ASEK-20 is Allegro’s next generation evaluation kit. ASEK-20 provides a powerful and flexible system for programming and evaluating Allegro devices from multiple sensor families including: Angle Position Sensors, Linear Position Sensors, Digital Position Sensors, and Current Sensors. The ASEK-20 Kit is the main programmer and is intended to be combined with device specific daughterboards (available separately) that allow benchtop evaluation and programming of individual Allegro Sensors.</p><h2>ASEK-20-T-KIT Bill of Materials</h2><ul><li>ASEK-20 Kit (Part # 85-0540-600)</li><li>ASEK-20 Chassis with main Motherboard inside (85-0540-004)</li><li>USB Communications Cable</li><li>DC Power Supply/Cable with AC Outlet Adapters</li><li>Proto Board (Part # 85-0540-103)</li><li>Ribbon Cable (Part # 85-0540-300)</li></ul><h3>The kit is intended for use as:</h3><ul><li>a benchtop engineering tool for evaluating individual Allegro sensor devices; it can be used to characterize and understand the performance of the various types of sensor devices</li><li>calibrating field-programmable Allegro devices in small volumes; the kit is ideal for characterizing the effects of the various register value increments and for understanding and developing procedures for programming code streams for use on production systems</li></ul><p class="caution"><span style="font-weight: bolder;">CAUTION: The ASEK system is intended for low-volume engineering applications. It is not intended to be used in volume production environments, other than for system development purposes.</span></p><p>Device specific soware applications can be found on Allegro’s Soware Portal</p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T044813Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+db7e6ed8-5cd6-49d4-887d-6c4e2485e218
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190422T080001Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

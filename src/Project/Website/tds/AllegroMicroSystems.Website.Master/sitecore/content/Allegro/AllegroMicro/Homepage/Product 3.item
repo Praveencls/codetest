@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {B420EC52-7FAB-42AD-96FA-FD733BF4E653}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Product 3
+parent: {979E6353-48EE-40CD-88C0-046F4C7304FE}
+name: Product 3
+master: {00000000-0000-0000-0000-000000000000}
+template: {455B3E31-BCEF-48F1-8D3A-6892BA3C2A12}
+templatekey: Product
+created: 20190428T091933Z
+
+----version----
+language: en
+version: 1
+revision: 666dbc47-1267-441d-9929-025978d61ef5
+
+----field----
+field: {BE0A19EE-3B21-4E9B-A09F-A45D6B9DED24}
+name: Product Name
+key: product name
+content-length: 3
+
+Kit
+----field----
+field: {381BA240-143E-49E8-9862-5B5A84CA0501}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{A53283D1-7912-4C37-B7E6-8B4378630B22}" />
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 9
+
+Product 3
+----field----
+field: {F99CC56E-A17C-4F83-8489-B4BBE1F1408A}
+name: Content Summary
+key: content summary
+content-length: 290
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.
+----field----
+field: {04324876-EEF8-4EB7-AE4A-9352C0401E96}
+name: Image Summary
+key: image summary
+content-length: 65
+
+<image mediaid="{2196ED60-1CC2-4E89-B5BE-F0CE9BFCB261}" ></image>
+----field----
+field: {CA16CD58-41CC-466B-80D8-2850AAB05C5D}
+name: Sitemap Title
+key: sitemap title
+content-length: 9
+
+Product 3
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190428T091933Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+666dbc47-1267-441d-9929-025978d61ef5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190503T064019Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

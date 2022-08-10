@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {21A56BC4-F73B-4458-AE3F-833A4516DAF8}
+database: master
+path: /sitecore/templates/Branches/Allegro/AllegroMicro/Project/Tenant/$name/Site Root/Homepage/Newsroom/archiveYear
+parent: {EDF424A6-C257-434D-9DFC-B792DE3D014F}
+name: archiveYear
+master: {33C5A87C-BE26-4CF6-80CD-52855ED7C901}
+template: {803C5CCA-2F67-44D2-B125-158280469004}
+templatekey: Archive Year Folder
+created: 20190529T033359Z
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{E0336D34-7CE1-4D4E-A5AD-9EBF707C5519}
+----version----
+language: en
+version: 1
+revision: e6cf5f71-43b7-4a18-930c-69118860e589
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190529T033359Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e6cf5f71-43b7-4a18-930c-69118860e589
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190529T033359Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

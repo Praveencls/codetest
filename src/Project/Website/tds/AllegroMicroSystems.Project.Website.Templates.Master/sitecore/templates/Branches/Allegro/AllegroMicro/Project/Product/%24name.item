@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {25006453-2A78-4F1D-A880-BFE093B2A1FE}
+database: master
+path: /sitecore/templates/Branches/Allegro/AllegroMicro/Project/Product/$name
+parent: {D3B21E7C-8696-44ED-B1AA-273EDA8C3469}
+name: $name
+master: {00000000-0000-0000-0000-000000000000}
+template: {455B3E31-BCEF-48F1-8D3A-6892BA3C2A12}
+templatekey: Product
+created: 20190413T235206Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 71
+
+http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1252
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{41F23286-D865-408F-93B0-08A981B8BA86}" p:after="r[@uid='{48EB6EC3-6E2C-4E7F-8B25-E38A18866987}']" s:id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" s:ph="content" /><r uid="{F47ACF1E-0DF2-4C9D-AD8E-311D9738AB08}" p:after="r[@uid='{41F23286-D865-408F-93B0-08A981B8BA86}']" s:id="{E47507C6-4E03-4A96-B1A8-383ED5D72F1D}" s:ph="main-content" /><r uid="{4ACA643D-C2F3-4F6A-B8D6-8ABCD0C75784}" p:after="r[@uid='{F47ACF1E-0DF2-4C9D-AD8E-311D9738AB08}']" s:id="{7967AE9A-13CE-4A78-B5F5-08930B949D69}" s:ph="main-content" /><r uid="{EFEAD051-E529-4F5A-82AB-62C6E05A2C9F}" p:after="r[@uid='{4ACA643D-C2F3-4F6A-B8D6-8ABCD0C75784}']" s:id="{AD43AFEF-D465-46C1-ACD4-C02B20F26B7F}" s:ph="main-content" /><r uid="{11794B9C-19A2-4B47-9B68-48449E0A90BE}" p:after="r[@uid='{EFEAD051-E529-4F5A-82AB-62C6E05A2C9F}']" s:ds="" s:id="{72375C7A-D25D-4C13-A3F7-3286B97C89F4}" s:par="" s:ph="main-content" /><r uid="{4CAA337D-90A6-4CEF-B97D-D586426ED52C}" p:after="r[@uid='{11794B9C-19A2-4B47-9B68-48449E0A90BE}']" s:ds="" s:id="{19600274-7B4E-470D-B578-3545B8EAD0F8}" s:par="Background Color" s:ph="main-content" /><r uid="{1460CC3E-C692-45D4-8133-E4DD15B4681C}" p:after="*[1=2]" /></d></r>
+----version----
+language: en
+version: 1
+revision: a0891565-015b-4b07-8be3-f03658325a27
+
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 240
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{BDEB5209-B0C8-467C-9491-9160660D1F61}" p:after="*[1=2]" s:ds="" s:id="{19600274-7B4E-470D-B578-3545B8EAD0F8}" s:par="" s:ph="main-content" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190413T235206Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a0891565-015b-4b07-8be3-f03658325a27
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190510T104451Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

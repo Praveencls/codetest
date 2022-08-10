@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Insight and Innovation" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Applications/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Career/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Contact/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Design Support/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Insight and Innovation/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary/Forms" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product/Sense/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary/Forms/FirstName" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Utility Navigation" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Utility Navigation" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation" ItemIcon="/temp/iconcache/network/32x32/link.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation" ItemIcon="/temp/iconcache/network/32x32/link.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Product" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Applications" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/About Allegro" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Design Support" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Product" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Application" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Digital Support" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/About Allegro" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Insight and Innovation" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Product/Drive" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Product/Regulate" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Product/Sense" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Product/Sence" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Product/Regulate" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Product/Saken Products" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Footer Navigation/Footer Main Navigation/Product/Drive" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/BodyContent" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/GenericContent" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Insight and Innovation" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Main Navigations/MainNavigation/Product/Saken Products" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Project" ItemIcon="/temp/IconCache/Applications/32x32/folder_window.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Common" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Common/Content Types" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Common/Content Types/Navigation Root" ItemIcon="/temp/IconCache/Network/32x32/link.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Common/Content Types/RTE Background" ItemIcon="/temp/IconCache/Other/32x32/bullet_ball_glass_red.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content/Article/__Standard Values" ItemIcon="/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content/Callout" ItemIcon="/temp/IconCache/Applications/32x32/window_edit.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content/Home" ItemIcon="/temp/IconCache/Office/32x32/home.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content/Home/__Standard Values" ItemIcon="/temp/iconcache/office/32x32/home.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content/Page/__Standard Values" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Footer" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Footer/Footer" ItemIcon="/temp/IconCache/WordProcessing/32x32/footer_h.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Footer/Footer/__Standard Values" ItemIcon="/temp/iconcache/wordprocessing/32x32/footer_h.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Header" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Header/Header" ItemIcon="/temp/IconCache/WordProcessing/32x32/header.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Header/Header/__Standard Values" ItemIcon="/temp/iconcache/wordprocessing/32x32/header.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Navigation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Navigation/Navigation Link" ItemIcon="/temp/IconCache/WordProcessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Navigation/Navigation Link/__Standard Values" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Page Content" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Page Content/Body Content" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Page Content/Generic Content" ItemIcon="/temp/iconcache/applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Settings" ItemIcon="/temp/IconCache/Office/32x32/gearwheels.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content/Article" ItemIcon="/temp/IconCache/Office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/templates/Project/AllegroMicroSystems/Content/Page" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Container Background Image Positions/Center" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Container Background Image Positions/Left" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Container Background Image Positions" ItemIcon="/temp/iconcache/applications/32x32/folder_blue.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/RTE Background Folder/Gray" ItemIcon="http://allegromicrosystems.local/temp/iconcache/wordprocessing/32x32/format_painter.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Utility Navigation/Footer Utility Navigation/PRIVACY POLICY" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Generic Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/About Allegro/Page" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Career" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Contact" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Container Background Image Positions/Right" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary" ItemIcon="/temp/IconCache/People/16x16/book_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Utility Navigation/Footer Utility Navigation" ItemIcon="/temp/iconcache/network/32x32/link.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Footer/Utility Navigation/Footer Utility Navigation/Legal" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Utility Navigation/Utility Navigation1" ItemIcon="/temp/iconcache/network/32x32/link.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Utility Navigation/Utility Navigation1/Career" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation/Header/Utility Navigation/Utility Navigation1/Contact" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/RTE Background Folder" ItemIcon="/temp/iconcache/applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/RTE Background Folder/White" ItemIcon="http://allegromicrosystems.local/temp/iconcache/wordprocessing/32x32/format_painter.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Test" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column-background/_resources/background-image" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column-background/_resources/Page Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column-background/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Home Page Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/About Allegro/_resources/Onc Colulmn Page Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column/_resources/Right Rail Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column/Page" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column-background/_resources/Right Rail Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column-background/Page" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Test/one-column-background" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro" ItemIcon="/temp/IconCache/People/16x16/book_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Hero Slider Folder/Hero Slider Item  2" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Hero Slider Folder/Hero Slider Item  3" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/404" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Applications" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/About Allegro/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/About Allegro" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Design Support" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Careers" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Insights And Innovations" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Footer" ItemIcon="/temp/iconcache/wordprocessing/32x32/footer_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Header" ItemIcon="/temp/iconcache/wordprocessing/32x32/header.png" />
+  <Item ItemPath="/sitecore/content/Allegro" ItemIcon="/temp/iconcache/network/32x32/environment.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Body Content Home" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Hero Slider Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/bullet_triangle_yellow.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Hero Slider Folder/Hero Slider Item 1" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/save_video_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Rich Text Content Home" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/404/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/404/_resources/New Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/About Allegro/Sense" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/About Allegro/Sense/Speed" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Careers/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/one-column" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/one-column/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/one-column/_resources/Page Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product/Sense" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product/Sense/Speed" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column-background" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content" ItemIcon="/temp/iconcache/office/32x32/data_network.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Global" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Global/Copyright" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure" ItemIcon="/temp/iconcache/core3/32x32/copy_to_folder_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Social Media Navigation" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Social Media Navigation/Footer Social Media Navigation" ItemIcon="/temp/iconcache/business/32x32/pin_green.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Social Media Navigation/Footer Social Media Navigation/Facebook" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/cd.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Social Media Navigation/Footer Social Media Navigation/Linked In" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/cd.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Social Media Navigation/Footer Social Media Navigation/Twitter" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/cd.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Social Media Navigation/Footer Social Media Navigation/Wechat" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/cd.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Social Media Navigation/Footer Social Media Navigation/Youtube" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/cd.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item3" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item4" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/articletype1" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/articletype2" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/articletype3" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/articletype4" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/articletype5" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/articletype6" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 2" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 3" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 4" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 5" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 6" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero Item1" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/bullet_triangle_yellow.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 2/Full Width Hero" ItemIcon="/temp/iconcache/applications/32x32/media_step_forward.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Page" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Page/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column/_resources/Page Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/Whitepaper" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/Case Study" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/Ebook" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/Article" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/News" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Article Type/Video" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Center" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Left" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Right" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item 5" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item 6" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product 4" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Block Callout Listing 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/open_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item 7" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile 4" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile2/Image Tile" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile3" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Product Callout Listing 1" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/product2/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Search" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Search/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Global/LearnMore" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Product Callout Listing 1/Product Callout 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Fullwidth Callout Listing" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Fullwidth Callout Listing/Fullwidth Callout Listing 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Product Callout Listing 1/Product Callout 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/one-column-background" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro" ItemIcon="/temp/iconcache/office/32x32/cubes.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs/Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Accordion Folder/Accordion Item 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Accordion Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Block Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/open_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Body Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Fullwidth Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Hero Slider Folder/Full Width Hero 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Hero Slider Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/bullet_triangle_yellow.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Image Tile Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/save_video_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/one-column-background" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Product Callout Listing Folder/Product Callout 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Product Callout Listing Folder" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Accordion Folder/Accordion Item 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Accordion Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Block Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/open_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Body Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Fullwidth Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Hero Slider Folder/Full Width Hero 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Hero Slider Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/bullet_triangle_yellow.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Image Tile Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/save_video_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/one-column-background" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Product Callout Listing Folder/Product Callout 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Product Callout Listing Folder" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Accordion Folder/Accordion Item 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Accordion Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Block Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/open_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Body Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Fullwidth Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Hero Slider Folder/Full Width Hero 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Hero Slider Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/bullet_triangle_yellow.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Image Tile Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/save_video_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/one-column-background" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Product Callout Listing Folder/Product Callout 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Product Callout Listing Folder" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Accordion Folder/Accordion Item 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Accordion Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Block Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/open_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Body Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Fullwidth Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Hero Slider Folder/Full Width Hero 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Hero Slider Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/bullet_triangle_yellow.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Image Tile Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/save_video_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/one-column-background" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Product Callout Listing Folder/Product Callout 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Product Callout Listing Folder" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/QA1" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs/Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs" ItemIcon="/temp/IconCache/http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs/Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs/ACS709" ItemIcon="/temp/IconCache/http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 7" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Product Callout Listing 1/Product Callout" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Accordion Folder/Accordion Item 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Hero Slider Folder/Full Width Hero 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Image Tile Listing Folder/Image Tile 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Image Tile Listing Folder/Image Tile 1/Image Tile" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Product Callout Listing Folder/Product Callout 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Copy of Demo ex1/_resources/Rich Text Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Accordion Folder/Accordion Item 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Hero Slider Folder/Full Width Hero 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Image Tile Listing Folder/Image Tile 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Image Tile Listing Folder/Image Tile 1/Image Tile" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Product Callout Listing Folder/Product Callout 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Rich Text Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Accordion Folder/Accordion Item 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Hero Slider Folder/Full Width Hero 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Image Tile Listing Folder/Image Tile 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Image Tile Listing Folder/Image Tile 1/Image Tile" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Product Callout Listing Folder/Product Callout 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Demo1/_resources/Rich Text Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Accordion Folder/Accordion Item 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Hero Slider Folder/Full Width Hero 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Image Tile Listing Folder/Image Tile 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Image Tile Listing Folder/Image Tile 1/Image Tile" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Product Callout Listing Folder/Product Callout 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Rich Text Content 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/QA1/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Article" ItemIcon="/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Page/_resources/New Leadership Bio" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Page/_resources/New Button Callout" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro" ItemIcon="/temp/iconcache/office/32x32/cubes.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage" ItemIcon="/temp/iconcache/office/32x32/home.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs/Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs/ACS709/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Body Content Home" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List" ItemIcon="/temp/IconCache/http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/markend_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile3" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/one-column-background" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Rich Text Content Home" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/404" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/404/_resources/New Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/About Allegro" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Article/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/CheckStock" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/CheckStock/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/two-column/_resources/Page Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product" ItemIcon="/temp/IconCache/http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product 3" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/product2" ItemIcon="/temp/IconCache/http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Accordion  List Folder/Accordion Item 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Accordion  List Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Block Callout Listing 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/open_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Block Callout Listing 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/open_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Fullwidth Callout Listing Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Hero Slider Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/bullet_triangle_yellow.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Image Tile Listing 1/Image Tile 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Image Tile Listing 1/Image Tile 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Image Tile Listing 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/save_video_h.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/one-column-bg" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/one-column-bg2" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Product Callout Listing" ItemIcon="/temp/iconcache/multimedia/32x32/fadein_video.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage" ItemIcon="/temp/iconcache/office/32x32/home.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs/Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs/ACS70331" ItemIcon="/temp/IconCache/http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs/Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs/ACS70331/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources/one-column second" ItemIcon="/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Accordion  List Folder/Accordion Item 2" ItemIcon="http://allegromicrosystems.local/temp/iconcache/control/32x32/popup_menu_b.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Hero Slider Folder/Full Width Hero 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_scenery.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Image Tile Listing 1/Image Tile 3" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Product Callout Listing/Product Callout 1" ItemIcon="http://allegromicrosystems.local/temp/iconcache/business/32x32/data_table.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Rich Text Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/text_align_left.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Company" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Email" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/First Name" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Last Name" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Phone" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Product Description Request" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Select Region" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Sent Message" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Sent" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Sent/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Sent/_resources/Body Content New" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/X" ItemIcon="/temp/IconCache/Office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Dictionary-AllegroMicro/Contact Us/Title" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/system" ItemIcon="/temp/IconCache/People/16x16/workstation1.png" />
+  <Item ItemPath="/sitecore/system/Settings" ItemIcon="/temp/IconCache/Applications/16x16/preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations/New Navigation Root/New Main Navigation Link1" ItemIcon="/temp/iconcache/applications/32x32/signpost.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Utility Navigation" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Utility Navigation/Footer Utility Navigation" ItemIcon="/temp/iconcache/business/32x32/pin_green.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Utility Navigation/Footer Utility Navigation/PRIVACY POLICY" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Footer/Utility Navigation/Footer Utility Navigation/Legal" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Header" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Header/Utility Navigation" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Header/Utility Navigation/Utility Navigation Root" ItemIcon="/temp/iconcache/business/32x32/pin_green.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Header/Utility Navigation/Utility Navigation Root/Careers" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Header/Utility Navigation/Utility Navigation Root/Contact Us" ItemIcon="/temp/iconcache/wordprocessing/16x16/insert_hyperlink.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_preferences.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations/New Navigation Root" ItemIcon="/temp/iconcache/business/32x32/pin_green.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations/New Navigation Root/New Main Navigation Link1" ItemIcon="/temp/iconcache/applications/32x32/signpost.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations/New Navigation Root/New Main Navigation Link2" ItemIcon="/temp/iconcache/applications/32x32/signpost.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations/New Navigation Root/New Main Navigation Link3" ItemIcon="/temp/iconcache/applications/32x32/signpost.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations/New Navigation Root/New Main Navigation Link4" ItemIcon="/temp/iconcache/applications/32x32/signpost.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Main Navigations/New Navigation Root/New Main Navigation Link5" ItemIcon="/temp/iconcache/applications/32x32/signpost.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme" ItemIcon="/temp/iconcache/applications/32x32/folder_new.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 152" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 186" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 3288" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 540" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 7046" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 7665" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 7704" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE 187" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Africa" ItemIcon="/temp/iconcache/apps/32x32/map.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Asia" ItemIcon="/temp/iconcache/apps/32x32/map.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Europe" ItemIcon="/temp/iconcache/apps/32x32/map.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Latin America" ItemIcon="/temp/iconcache/apps/32x32/map.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Composition" ItemIcon="/temp/iconcache/office/32x32/window.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Composition/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Composition/_resources/Page Body Content" ItemIcon="http://allegromicrosystems.local/temp/iconcache/office/32x32/document_notebook.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/_resources" ItemIcon="/temp/iconcache/applications/32x32/folder_red.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Homepage/Product" ItemIcon="/temp/IconCache/http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Product Tiles Background Theme/PANTONE COOL GRAY 8" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/core3/32x32/open_document.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Africa/South Africa" ItemIcon="/temp/iconcache/apps/32x32/location.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Africa/South Africa/Digi-Key" ItemIcon="/temp/iconcache/apps/32x32/company.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/North America" ItemIcon="/temp/iconcache/apps/32x32/map.png" />
+  <Item ItemPath="/sitecore/content/Allegro/AllegroMicro/Site Settings" ItemIcon="/temp/iconcache/office/32x32/gearwheels.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Alternate Callout Background Color" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_up.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Alternate Callout Image Align" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_up.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Article Type" ItemIcon="/temp/iconcache/applications/32x32/folder_window.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Button callout parameter folder" ItemIcon="http://allegromicrosystems.local/temp/iconcache/applications/32x32/folder_up.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions" ItemIcon="/temp/iconcache/applications/32x32/folder_blue.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Location Types" ItemIcon="/temp/iconcache/applications/32x32/folder_edit.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/RTE Background Folder" ItemIcon="/temp/iconcache/applications/32x32/folder_green.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Validation Settings" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder" ItemIcon="/temp/iconcache/applications/32x32/folder_time.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme" ItemIcon="/temp/iconcache/applications/32x32/folder_new.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Alternate Callout Background Color/Blue" ItemIcon="/temp/iconcache/imaging/32x32/fill_gradient.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Alternate Callout Background Color/Grey" ItemIcon="/temp/iconcache/imaging/32x32/fill_gradient.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Alternate Callout Image Align/Left" ItemIcon="/temp/iconcache/core2/32x32/flow_chart.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Alternate Callout Image Align/Right" ItemIcon="/temp/iconcache/core2/32x32/flow_chart.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Article Type/Article" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Article Type/Case Study" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Article Type/Ebook" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Article Type/News" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Article Type/Video" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Button callout parameter folder/Green" ItemIcon="/temp/iconcache/imaging/32x32/fill_gradient.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Bottom Left" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Bottom Right" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Top Center" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Top Left" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Location Types/Allegro" ItemIcon="/temp/iconcache/applications/32x32/bookmark.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Location Types/Distributor" ItemIcon="/temp/iconcache/applications/32x32/bookmark.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/RTE Background Folder/Gray" ItemIcon="http://allegromicrosystems.local/temp/iconcache/wordprocessing/32x32/format_painter.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Validation Settings/Contact Us Validation" ItemIcon="/temp/iconcache/people/32x32/dude4.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder/always" ItemIcon="/temp/iconcache/apps/32x32/clock.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder/daily" ItemIcon="/temp/iconcache/apps/32x32/clock.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder/hourly" ItemIcon="/temp/iconcache/apps/32x32/clock.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder/monthly" ItemIcon="/temp/iconcache/apps/32x32/clock.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder/never" ItemIcon="/temp/iconcache/apps/32x32/clock.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder/weekly" ItemIcon="/temp/iconcache/apps/32x32/clock.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/White" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/Black" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 152 - Orange" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 186 - Red" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 3288 - Green" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 540 - Blue" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 7406 - Yellow" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 7665 - Violet" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 7704 -Cyan" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Article Type/Whitepaper" ItemIcon="/temp/iconcache/applications/32x32/document_connection.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Button callout parameter folder/Orange" ItemIcon="/temp/iconcache/imaging/32x32/fill_gradient.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Container Background Image Positions/Top Right" ItemIcon="/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Location Types/Representative" ItemIcon="/temp/iconcache/applications/32x32/bookmark.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE 187-Maroon" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Product Tiles Background Theme/PANTONE COOL GRAY 8" ItemIcon="/temp/iconcache/apps/32x32/steps.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/RTE Background Folder/White" ItemIcon="http://allegromicrosystems.local/temp/iconcache/wordprocessing/32x32/format_painter.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Sitemap setting Folder/yearly" ItemIcon="/temp/iconcache/apps/32x32/clock.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Positions" ItemIcon="/temp/iconcache/applications/32x32/folder_refresh.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Positions/left-bottom" ItemIcon="http://allegromicrosystems.local/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Positions/left-center" ItemIcon="http://allegromicrosystems.local/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Positions/right-bottom" ItemIcon="http://allegromicrosystems.local/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Theme Folder/Dark" ItemIcon="/temp/iconcache/people/32x32/palette2.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Positions/right-center" ItemIcon="http://allegromicrosystems.local/temp/iconcache/imaging/32x32/fit_selection_h.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Theme Folder" ItemIcon="/temp/iconcache/applications/32x32/folder_cubes.png" />
+  <Item ItemPath="/sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Theme Folder/Light" ItemIcon="/temp/iconcache/people/32x32/palette2.png" />
+</ItemIconCache>

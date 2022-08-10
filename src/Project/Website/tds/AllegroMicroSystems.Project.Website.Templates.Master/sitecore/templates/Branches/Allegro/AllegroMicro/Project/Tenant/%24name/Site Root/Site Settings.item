@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {A761633E-6D8A-415A-B0AA-9182CB009EAD}
+database: master
+path: /sitecore/templates/Branches/Allegro/AllegroMicro/Project/Tenant/$name/Site Root/Site Settings
+parent: {E5819CCA-9CAD-451F-8E04-22BCAD44C7A4}
+name: Site Settings
+master: {00000000-0000-0000-0000-000000000000}
+template: {33927A43-078A-4A2B-9D00-01F97E5D3B0B}
+templatekey: Settings
+created: 20190413T221305Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----version----
+language: en
+version: 1
+revision: 75283552-dade-4c58-b0d5-c1e9cdbfaf7f
+
+----field----
+field: {ECBE5535-7811-4EAA-B7D0-07CA4973586D}
+name: SupportedLanguages
+key: supportedlanguages
+content-length: 116
+
+{AF584191-45C9-4201-8740-5409F4CF8BDD}|{6935D1D5-A458-4F37-AE51-03D8720CB5CB}|{172D25D5-6841-4594-A7C5-880FE7E29DB8}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190413T221305Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+75283552-dade-4c58-b0d5-c1e9cdbfaf7f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190514T141943Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

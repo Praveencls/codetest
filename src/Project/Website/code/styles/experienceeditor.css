@@ -1,0 +1,381 @@
+﻿
+/*Start: Home Page Slider Experience Editor Fixes*/
+
+.page-editor .carousel-control-prev,
+
+.page-editor .carousel-control-next {
+
+	display: none;
+
+}
+
+.page-editor .scEnabledChrome {
+
+	width: 100%;
+
+	margin: 0;
+
+	padding: 0;
+
+	display: block;
+
+	position: relative;
+
+}
+
+.page-editor a.scEnabledChrome {
+
+	width: auto;
+
+	margin: 0;
+
+	padding: 10px 20px;
+
+	display: inline-block;
+
+	position: relative;
+
+}
+
+.page-editor .scWebEditInput {
+
+	display: block;
+
+}
+
+.page-editor .accordion-content {} .page-editor .carousel-item {
+
+	display: block;
+
+	margin: 0;
+
+}
+
+.page-editor .carousel-item img.slider-bg {
+
+	width: 100%;
+
+	min-height: 350px;
+
+}
+
+/*End: Home Page Slider Experience Editor Fixes*/
+
+/*Start: Home Page Product Tile Experience Editor Fixes*/
+
+.page-editor .product-outer {
+
+	width: 33%;
+
+	max-width: 33% flex: 0 0 33%;
+
+	margin-top: 5px;
+
+	margin-left: 0px;
+
+}
+
+/*End: Home Page Product Tile Experience Editor Fixes*/
+
+/*Start: Accordion Experience Editor Fixes*/
+
+.page-editor .card {
+
+	display: block;
+
+	position: relative;
+
+	min-height: 100px;
+
+	float: none;
+
+	clear: both;
+
+}
+
+.page-editor .card-body {
+
+	display: block;
+
+	float: left;
+
+	clear: both;
+
+	min-height: 100px;
+
+}
+
+/*End: Accordion Experience Editor Fixes*/
+
+/*Start: Carousel Experience Editor Fixes*/
+
+.page-editor .content-slide:nth-child(4n) {
+
+	clear: left;
+
+}
+
+.page-editor .content-slide {
+
+	margin-top: 5px;
+
+	margin-right: 5px;
+
+	display: table-cell;
+
+	flex: 0 0 24%;
+
+	max-width: 24%;
+
+	float: left;
+
+}
+
+.page-editor .utility-section .content-slide {
+
+	width: 100%;
+
+	max-width: 100%;
+
+	flex: 0 0 100%;
+
+}
+
+.page-editor .utility-section .featurekit-content {
+
+	width: 100%;
+
+	max-width: 100%;
+
+	flex: 0 0 100%;
+
+}
+
+.page-editor .utility-section .button {
+
+	width: 100%;
+
+	max-width: 100%;
+
+	flex: 0 0 100%;
+
+}
+
+/*End: Carousel Experience Editor Fixes*/
+
+/*Start: Product Callout Experience Editor Fixes*/
+
+.page-editor .twocolumnbanner .content-block {
+
+	flex: 0 0 49%;
+
+	width: 40%;
+
+	margin: 0 auto;
+
+	display: block;
+
+}
+
+.page-editor .twocolumnbanner .row {
+
+	position: relative;
+
+	text-align: center;
+
+	width: 100%;
+
+}
+
+/*End: Product Callout Experience Editor Fixes*/
+
+/*Start: Product Detail Experience Editor Fixes*/
+
+.page-editor .carousel-inner {
+
+	position: relative;
+
+	min-height: 350px;
+
+}
+
+.page-editor .btn.button1 {
+
+	min-height: 150px;
+
+}
+
+.page-editor .carousel-indicators {
+
+	display: none;
+
+}
+
+/*End: Product Detail Experience Editor Fixes*/
+
+/*Start: Transmission Editor Fixes*/
+
+.page-editor .transmission .cd-product-wrapper ul {
+
+	position: absolute;
+
+	top: 0px;
+
+	left: 0px;
+
+	height: 100%;
+
+	width: 100%;
+
+	padding: 0px;
+
+}
+
+.page-editor .transmission .cd-product-wrapper ul .scLooseFrameZone.scEnabledChrome {
+
+	height: 100%;
+
+	width: auto;
+
+}
+
+.page-editor .transmission .cd-single-point {
+
+	-webkit-animation-fill-mode: forwards;
+
+	/* Safari 4.0 - 8.0 */
+
+	animation-fill-mode: forwards;
+
+	display: inline-block;
+
+	width: auto;
+
+	padding: 0px;
+
+	margin: 0px;
+
+	display: inline-block;
+
+	position: absolute;
+
+}
+
+.page-editor .transmission .cd-single-point .cd-more-info {
+
+	visibility: visible;
+
+	opacity: 1;
+
+}
+
+.page-editor .transmission .cd-single-point-page {
+
+	display: inline-block;
+
+}
+
+/*End: Transmission Editor Fixes*/
+
+/*Start: accordion map Editor Fixes*/
+
+.page-editor .accordion-content {
+
+	display: table;
+
+}
+
+.page-editor .map .cd-product-wrapper ul {
+
+	position: absolute;
+
+	top: 0px;
+
+	left: 0px;
+
+	height: 100%;
+
+	width: 100%;
+
+	padding: 0px;
+
+}
+
+.page-editor .map .cd-product-wrapper ul .scLooseFrameZone.scEnabledChrome {
+
+	height: 100%;
+
+	width: auto;
+
+}
+
+.page-editor .map .cd-single-point {
+
+	-webkit-animation-fill-mode: forwards;
+
+	/* Safari 4.0 - 8.0 */
+
+	animation-fill-mode: forwards;
+
+	display: inline-block;
+
+	width: auto;
+
+	padding: 0px;
+
+	margin: 0px;
+
+	display: inline-block;
+
+	position: absolute;
+
+}
+
+.page-editor .content-block {
+
+	min-height: 200px;
+
+	float: none;
+
+}
+
+
+.page-editor .imagewithbutton .scEnabledChrome{
+	display: inline-block;
+}
+.page-editor .imagewithbutton .scLooseFrameZone {
+	width:60%;
+}
+.page-editor .page-editor .carousel-inner {
+	min-height:auto;
+}
+
+/*End: Product Detail Experience Editor Fixes*/
+
+/*Start: Infographics Experience Editor Fixes*/
+
+.page-editor .info .row {
+
+	display: block;
+
+}
+
+.page-editor .info .row .main-block {
+
+	display: inline-block;
+
+}
+
+.page-editor .info .row .main-block a {
+
+	display: block;
+
+}
+
+.page-editor .info .row .main-block a .content-block {
+
+	border: 4px solid yelllow;
+
+}
+
+/*End: Infographics Experience Editor Fixes*/

@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {7AF11AEF-8FDA-48D7-8A06-25D463F5557C}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Accordion  List Folder/Accordion Item 1
+parent: {20B28C20-41B3-4C67-AC80-F788410C858D}
+name: Accordion Item 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {0DDC6F8D-52A8-4DD8-A2C1-1E09CDF6AB9E}
+templatekey: Accordion Item
+created: 20190503T080409Z
+
+----version----
+language: en
+version: 1
+revision: 3c378d9f-7b0e-42c1-a07e-3f7349673563
+
+----field----
+field: {BE90A2FA-43FF-43E6-ADAC-D0CEC329A959}
+name: Heading
+key: heading
+content-length: 21
+
+Question 1 How can I 
+----field----
+field: {D5492193-007E-4FEF-B4D5-A83389461DCA}
+name: Content
+key: content
+content-length: 1245
+
+Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190503T080410Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3c378d9f-7b0e-42c1-a07e-3f7349673563
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190503T080842Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

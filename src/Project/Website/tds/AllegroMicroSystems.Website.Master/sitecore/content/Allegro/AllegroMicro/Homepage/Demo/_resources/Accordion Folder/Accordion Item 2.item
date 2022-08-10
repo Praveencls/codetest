@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {C6B4693D-4E30-49F9-964C-54B476915F58}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Accordion Folder/Accordion Item 2
+parent: {528D9E02-0C26-4FD8-8181-065B3CDB10A2}
+name: Accordion Item 2
+master: {00000000-0000-0000-0000-000000000000}
+template: {0DDC6F8D-52A8-4DD8-A2C1-1E09CDF6AB9E}
+templatekey: Accordion Item
+created: 20190429T133114Z
+
+----version----
+language: en
+version: 1
+revision: a7044bf7-3d25-4beb-af2a-e376fd82796e
+
+----field----
+field: {BE90A2FA-43FF-43E6-ADAC-D0CEC329A959}
+name: Heading
+key: heading
+content-length: 8
+
+Heading 
+----field----
+field: {D5492193-007E-4FEF-B4D5-A83389461DCA}
+name: Content
+key: content
+content-length: 11
+
+Lorem Ipsum
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190429T133114Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a7044bf7-3d25-4beb-af2a-e376fd82796e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190430T023450Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

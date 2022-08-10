@@ -1,0 +1,106 @@
+----item----
+version: 1
+id: {9A060D19-6A05-427E-97DB-070B6727ACE5}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Navigation Folder/Header/Utility Navigation/Utility Navigation Root/Contact Us
+parent: {A60D289C-32EF-4476-826B-6CE54A4FE119}
+name: Contact Us
+master: {00000000-0000-0000-0000-000000000000}
+template: {763657C1-4839-43A8-9014-6769DDFA11AE}
+templatekey: Navigation Link
+created: 20190429T034645Z
+
+----version----
+language: en
+version: 1
+revision: 90ef63c5-c3b1-424f-8c0d-22f69e34988a
+
+----field----
+field: {88FD0F6E-CEE2-4B32-811B-E3A7025CA60E}
+name: Link
+key: link
+content-length: 133
+
+<link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9815D52E-7420-467F-A102-F63819DAB50D}" />
+----field----
+field: {6CA9F9D8-426A-4B4C-AEC4-45D1B223489F}
+name: Navigation Title
+key: navigation title
+content-length: 10
+
+Contact Us
+----field----
+field: {F9647679-9650-4287-B779-E38045362CB0}
+name: Show In Navigation
+key: show in navigation
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T082338Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+90ef63c5-c3b1-424f-8c0d-22f69e34988a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190429T041702Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----version----
+language: zh-CN
+version: 1
+revision: 47a7ac6f-7783-42ba-9dff-b7aa71cae05c
+
+----field----
+field: {88FD0F6E-CEE2-4B32-811B-E3A7025CA60E}
+name: Link
+key: link
+content-length: 137
+
+<link text="キャリア" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2F11FDF8-461A-426C-90BE-4CCEF410F666}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T111845Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+47a7ac6f-7783-42ba-9dff-b7aa71cae05c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190417T111904Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

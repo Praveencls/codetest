@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {85B4F026-A6DA-410B-AD3B-1A9A5921A2E7}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Block Callout Listing 1
+parent: {4D08E910-BDE8-44AF-A982-FE11806BA86B}
+name: Block Callout Listing 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {F5F5F5FE-2903-47A7-96D2-F4429B3826E6}
+templatekey: Product Block Listing Folder
+created: 20190428T073028Z
+
+----version----
+language: en
+version: 1
+revision: 9b9535dc-a372-4730-8acd-012207430ee2
+
+----field----
+field: {9283510D-6C3B-482B-8B9C-F325025DE90E}
+name: Heading
+key: heading
+content-length: 15
+
+Product Listing
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190428T073028Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b9535dc-a372-4730-8acd-012207430ee2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190428T081321Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

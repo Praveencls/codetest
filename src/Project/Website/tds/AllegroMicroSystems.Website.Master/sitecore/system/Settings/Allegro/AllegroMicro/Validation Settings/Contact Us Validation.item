@@ -1,0 +1,174 @@
+----item----
+version: 1
+id: {5944EAC3-5B64-4C56-9964-CBF7B57B8469}
+database: master
+path: /sitecore/system/Settings/Allegro/AllegroMicro/Validation Settings/Contact Us Validation
+parent: {24EF90B8-AC37-4EAA-8F71-42C894993F7C}
+name: Contact Us Validation
+master: {00000000-0000-0000-0000-000000000000}
+template: {AE30EA19-526E-49DF-871A-E751C9A81747}
+templatekey: Contact Us Validation
+created: 20190504T121006Z
+
+----version----
+language: en
+version: 1
+revision: 1eb72538-616c-4bb2-ad7b-ec1aa2cf4395
+
+----field----
+field: {DB061962-3D02-498D-A870-6C2108FD2835}
+name: Email
+key: email
+content-length: 17
+
+Email is required
+----field----
+field: {B71DC9D2-A8D2-4DFC-9679-7F25309EF70C}
+name: Region
+key: region
+content-length: 18
+
+Region is required
+----field----
+field: {8FBD5D8E-974B-4F02-AF8F-E55D6D632AB7}
+name: Request
+key: request
+content-length: 40
+
+Product Description/Request is required.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190504T121007Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1eb72538-616c-4bb2-ad7b-ec1aa2cf4395
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190505T225750Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----version----
+language: ja-JP
+version: 1
+revision: 045ef76e-f5fd-4631-8d3b-3d6c5f59b151
+
+----field----
+field: {DB061962-3D02-498D-A870-6C2108FD2835}
+name: Email
+key: email
+content-length: 0
+
+
+----field----
+field: {B71DC9D2-A8D2-4DFC-9679-7F25309EF70C}
+name: Region
+key: region
+content-length: 0
+
+
+----field----
+field: {8FBD5D8E-974B-4F02-AF8F-E55D6D632AB7}
+name: Request
+key: request
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190505T225248Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+045ef76e-f5fd-4631-8d3b-3d6c5f59b151
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190505T230133Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----version----
+language: zh-CN
+version: 1
+revision: 6b804a31-a5e6-4f6c-99e3-1dde082fc4ff
+
+----field----
+field: {DB061962-3D02-498D-A870-6C2108FD2835}
+name: Email
+key: email
+content-length: 0
+
+
+----field----
+field: {B71DC9D2-A8D2-4DFC-9679-7F25309EF70C}
+name: Region
+key: region
+content-length: 0
+
+
+----field----
+field: {8FBD5D8E-974B-4F02-AF8F-E55D6D632AB7}
+name: Request
+key: request
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190505T221756Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6b804a31-a5e6-4f6c-99e3-1dde082fc4ff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190505T230113Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

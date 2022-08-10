@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {9F9B01FC-6BC7-4D85-8233-22CE1F452C45}
+database: master
+path: /sitecore/templates/Branches/Allegro/AllegroMicro/Project/Product/$name/_resources/Part Image Folder
+parent: {3538BE19-2FEA-45FE-84FC-190DD455DA88}
+name: Part Image Folder
+master: {00000000-0000-0000-0000-000000000000}
+template: {62281901-7F45-4602-9204-AEC007B3586B}
+templatekey: Part Image Folder
+created: 20190503T070926Z
+
+----version----
+language: en
+version: 1
+revision: b5b9b871-805b-41e9-9154-553a46ded50d
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190503T070926Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b5b9b871-805b-41e9-9154-553a46ded50d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190509T024704Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

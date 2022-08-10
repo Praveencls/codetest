@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {24EB7702-A7F3-4F57-9765-B7C9D1AFF07E}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Page/_resources/New Button Callout
+parent: {84A59754-51B3-42F6-A0A0-BD1782442F37}
+name: New Button Callout
+master: {00000000-0000-0000-0000-000000000000}
+template: {F3018B20-AC59-4EBD-95EC-36DB858B61AB}
+templatekey: Button Callout
+created: 20190501T043626Z
+
+----version----
+language: en
+version: 1
+revision: 2d1ef4bb-9de5-4a94-be3b-581fffe7e693
+
+----field----
+field: {8F200631-80B7-45A5-8DB9-1D6F8A3FE0CA}
+name: Link Text
+key: link text
+content-length: 18
+
+DOWNLOAD DATASHEET
+----field----
+field: {5610B906-497A-46B4-8A92-02A470DB0534}
+name: FaIcon
+key: faicon
+content-length: 51
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190501T043626Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2d1ef4bb-9de5-4a94-be3b-581fffe7e693
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190501T065416Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

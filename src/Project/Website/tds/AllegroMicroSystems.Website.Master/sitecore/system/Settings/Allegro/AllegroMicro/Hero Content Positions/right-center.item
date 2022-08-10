@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {E3EE6FA0-B885-4482-8AB8-CADA949D3BCE}
+database: master
+path: /sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Positions/right-center
+parent: {5A17D29F-F9D2-465D-8BE4-688156D5AAD7}
+name: right-center
+master: {00000000-0000-0000-0000-000000000000}
+template: {370A6062-4B89-44CE-A4D6-5D8D3C840567}
+templatekey: Content Position
+created: 20190522T110021Z
+
+----version----
+language: en
+version: 1
+revision: 4e5f9343-ef68-4e5e-a792-d0f549875387
+
+----field----
+field: {5E5EC7C5-3227-408D-A127-6522DC276C74}
+name: Alignment
+key: alignment
+content-length: 29
+
+carousel-caption-right-center
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190522T110021Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4e5f9343-ef68-4e5e-a792-d0f549875387
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190522T110036Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {B0D51185-988A-45B2-B74A-0E8A6F9BD7B1}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/DemoTest/_resources/Image Tile Listing Folder
+parent: {8B98451E-6571-4873-8A0A-4035ECB63666}
+name: Image Tile Listing Folder
+master: {00000000-0000-0000-0000-000000000000}
+template: {68CFC4D9-5B25-483B-8436-008DD0F2810E}
+templatekey: Image Tiles Folder
+created: 20190501T062440Z
+
+----version----
+language: en
+version: 1
+revision: e5f181cf-f3a1-433e-8758-743161ef13e6
+
+----field----
+field: {A488806F-EB63-452E-867B-13A5DB7BDE3C}
+name: Heading
+key: heading
+content-length: 18
+
+Image Tile Heading
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190429T131929Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e5f181cf-f3a1-433e-8758-743161ef13e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190429T131958Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

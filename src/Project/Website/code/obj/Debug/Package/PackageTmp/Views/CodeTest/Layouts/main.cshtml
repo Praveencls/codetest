@@ -1,0 +1,50 @@
+﻿@using CodeTest.Foundation.DynamicPlaceholder.Helpers
+@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@inherits System.Web.Mvc.WebViewPage
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="ROBOTS" content="@Html.Sitecore().Field("Meta Robots", new { DisableWebEdit = true })">
+    <title>@Html.Sitecore().Field("Page Title", new { DisableWebEdit = true })</title>
+   
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=1">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=1">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=1">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=1" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <meta id="metaDescription" name="description" content="@Html.Sitecore().Field("MetaDescription", new {DisableWebEdit = true})" />
+    <meta id="metaKeywords" name="keywords" content="@Html.Sitecore().Field("MetaKeywords", new {DisableWebEdit = true})" />
+    
+    @if (Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+        <link href="~/styles/experienceeditor.css" rel="stylesheet" />
+    }
+    <link rel="stylesheet" href="https://use.typekit.net/bzn1yyt.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <link href="~/dist/styles/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Dist/styles/main.css" rel="stylesheet" />
+    
+    @Html.Sitecore().VisitorIdentification()
+</head>
+<body class="@(!Sitecore.Context.PageMode.IsExperienceEditor ? "" : "page-editor")">
+   
+    @Html.Sitecore().DynamicPlaceholder("content")
+    <script src="/scripts/jquery.min.js"></script>
+    @if (!Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+        <script src="/scripts/bootstrap.min.js"></script>
+    }
+   
+    <script src="/dist/scripts/client.bundle.js"></script>
+</body>
+</html>

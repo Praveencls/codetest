@@ -1,0 +1,45 @@
+﻿@using Sitecore.Mvc.Extensions
+@using Sitecore.Mvc
+@using CodeTest.Feature.GenericCallout.Models.GlassModels
+@using Sitecore.Mvc.Presentation
+@model I_Alternate_Callout
+
+
+@if (Model != null)
+{
+
+
+    var bgColor = !string.IsNullOrEmpty(RenderingContext.Current.Rendering.Parameters["Background Color"]) ? RenderingContext.Current.Rendering.Parameters["Background Color"] : "blue";
+
+    if (!string.IsNullOrEmpty(bgColor))
+    {
+        var bgColorItem = Sitecore.Context.Database.GetItem(bgColor);
+        if (bgColorItem != null)
+        {
+            bgColor = bgColorItem.Fields["Color"].Value;
+        }
+
+    }
+
+
+
+<div class="alternate-callout1-@bgColor shadow-t-b">
+    <div class="main-secton-division d-none d-lg-block d-xl-block">
+
+        <div class="container content-block">
+            @if (!string.IsNullOrEmpty(Model.Content) || Sitecore.Context.PageMode.IsExperienceEditor)
+            {
+<div class="left-1">
+    <div class="left-1-inner">
+        @Html.Sitecore().Field("Content", Model.SitecoreItem)
+    </div>
+</div>          }
+           
+
+        </div>
+        <div class="word-count-result"></div>
+
+    </div>
+
+
+</div>}

@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {A0F25FB6-8F48-4B96-8B46-99D651850B12}
+database: master
+path: /sitecore/system/Settings/Allegro/AllegroMicro/Alternate Callout Image Align/Left
+parent: {5032C3CB-6202-4130-A56B-EC2A5FC78067}
+name: Left
+master: {00000000-0000-0000-0000-000000000000}
+template: {199D737D-7F8F-4289-AEA6-A936ED32B572}
+templatekey: _alignImage
+created: 20190511T180026Z
+
+----version----
+language: en
+version: 1
+revision: b516a423-3d64-40fd-bd3a-00997167950f
+
+----field----
+field: {0940E3F7-E825-439B-99BA-A41ED4CB9798}
+name: Align Type
+key: align type
+content-length: 4
+
+left
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190511T180026Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b516a423-3d64-40fd-bd3a-00997167950f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190512T035833Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

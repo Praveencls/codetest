@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {3B842229-FEA0-4491-BAF7-A7E26A857FF1}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Asia
+parent: {06C41329-08FF-462B-BF2E-F38B16A0430E}
+name: Asia
+master: {00000000-0000-0000-0000-000000000000}
+template: {D3561F68-6CF6-4A14-A60C-A729C8BCB965}
+templatekey: Region
+created: 20190505T024053Z
+
+----version----
+language: en
+version: 1
+revision: 116cca15-ef07-41a0-afe9-d77d9173d763
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190505T024053Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+116cca15-ef07-41a0-afe9-d77d9173d763
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190505T024053Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

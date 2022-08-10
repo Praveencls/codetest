@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {614BD2D0-4062-4C56-9B62-3AA247D7D4FE}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Body Content 1
+parent: {3B034B6B-EADF-464C-815F-65A055A4F5D9}
+name: Body Content 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {59A2130F-E575-4F2D-8178-B4955C40A9E5}
+templatekey: Body Content
+created: 20190429T142653Z
+
+----version----
+language: en
+version: 1
+revision: 19569c15-371c-420d-9774-dc5ac201bf00
+
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 11
+
+Body Header
+----field----
+field: {8E8BEFB8-6D75-4599-AE25-C3BDF25CF0EB}
+name: Content
+key: content
+content-length: 1978
+
+<p style="margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; font-size: 16px; color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.&nbsp;<a href="http://loripsum.net/" target="_blank" style="color: rgb(74, 144, 226);">Duo Reges: constructio interrete.</a>&nbsp;<span style="font-weight: 700;">At certe gravius.</span>&nbsp;Quae autem natura suae primae institutionis oblita est? Ratio quidem vestra sic cogit.</p><p style="margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; font-size: 16px; color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.&nbsp;<a href="http://loripsum.net/" target="_blank" style="color: rgb(74, 144, 226);">Sin aliud quid voles, postea.</a>Piso igitur hoc modo, vir optimus tuique, ut scis, amantissimus. Suo enim quisque studio maxime ducitur. Nihilne te delectat umquam -video, quicum loquar-, te igitur, Torquate, ipsum per se nihil delectat?</p><p style="margin-right: 0px; margin-bottom: 1.5rem; margin-left: 0px; font-size: 16px; color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;"><i>Quid est igitur, inquit, quod requiras?</i>&nbsp;Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt. Hoc etsi multimodis reprehendi potest, tamen accipio, quod dant. Tamen a proposito, inquam, aberramus. Ita credo.&nbsp;<i>Utilitatis causa amicitia est quaesita.</i>&nbsp;Servari enim iustitia nisi a forti viro, nisi a sapiente non potest. Immo alio genere; Ergo hoc quidem apparet, nos ad agendum esse natos. Si enim ad populum me vocas, eum.&nbsp;<a href="http://loripsum.net/" target="_blank" style="color: rgb(74, 144, 226);">Hanc quoque iucunditatem, si vis, transfer in animum;</a></p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190429T142653Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+19569c15-371c-420d-9774-dc5ac201bf00
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190429T142730Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

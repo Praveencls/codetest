@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SitecoreDynamicPlaceholders</name>
+    </assembly>
+    <members>
+        <member name="M:SitecoreDynamicPlaceholders.Helpers.SitecoreHelper.DynamicPlaceholder(System.String,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Renders a dynamic placeholder.
+            </summary>
+            <param name="placeholderName">The name of the placeholder. Must be a non-empty string.</param>
+            <param name="count">Specifies how many placeholders Sitecore renders. Must be a non-negative number.</param>
+            <param name="maxCount">The upper limit of the number of dynamically generated placeholders. Must be a non-negative number.</param>
+            <param name="seed">A number used to calculate a starting value of a generated placeholder key suffix. Must be a non-negative number.</param>
+            <returns>The HTML of the dynamic placeholder.</returns>
+        </member>
+        <member name="M:SitecoreDynamicPlaceholders.Helpers.SitecoreHelper.DynamicPlaceholder(System.String,System.Web.Mvc.TagBuilder,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Renders a dynamic placeholder.
+            </summary>
+            <param name="placeholderName">The name of the placeholder. Must be a non-empty string.</param>
+            <param name="chrome">The TagBuilder object that specifies the HTML tag that will wrap each count of all dynamically generated placeholders.</param>
+            <param name="count">Specifies how many placeholders Sitecore renders. Must be a non-negative number.</param>
+            <param name="maxCount">The upper limit of the number of dynamically generated placeholders. Must be a non-negative number.</param>
+            <param name="seed">A number used to calculate a starting value of a generated placeholder key suffix. Must be a non-negative number.</param>
+            <returns>The HTML of the dynamic placeholder.</returns>
+        </member>
+        <member name="M:SitecoreDynamicPlaceholders.Helpers.SitecoreHelper.DynamicPlaceholder(System.String,System.Func{SitecoreDynamicPlaceholders.Presentation.DynamicPlaceholderRenderContext,System.Web.Mvc.TagBuilder},System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Renders a dynamic placeholder.
+            </summary>
+            <param name="placeholderName">The name of the placeholder. Must be a non-empty string.</param>
+            <param name="chromeResolver">The function that generates a TagBuilder wrapper based on DynamicPlaceholderRenderContext.</param>
+            <param name="count">Specifies how many placeholders Sitecore renders. Must be a non-negative number.</param>
+            <param name="maxCount">The upper limit of the number of dynamically generated placeholders. Must be a non-negative number.</param>
+            <param name="seed">A number used to calculate a starting value of a generated placeholder key suffix. Must be a non-negative number.</param>
+            <returns>The HTML of the dynamic placeholder.</returns>
+        </member>
+        <member name="M:SitecoreDynamicPlaceholders.Helpers.SitecoreHelper.DynamicPlaceholder(System.String,System.Func{System.Web.HtmlString,System.Web.HtmlString},System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Renders a dynamic placeholder.
+            </summary>
+            <param name="placeholderName">The name of the placeholder. Must be a non-empty string.</param>
+            <param name="outputModifier">The function that accepts the HTML output of a specific placeholder and returns the modified HTML.</param>
+            <param name="count">Specifies how many placeholders Sitecore renders. Must be a non-negative number.</param>
+            <param name="maxCount">The upper limit of the number of dynamically generated placeholders. Must be a non-negative number.</param>
+            <param name="seed">A number used to calculate a starting value of a generated placeholder key suffix. Must be a non-negative number.</param>
+            <returns>The HTML of the dynamic placeholder.</returns>
+        </member>
+        <member name="M:SitecoreDynamicPlaceholders.Helpers.SitecoreHelper.DynamicPlaceholder(System.String,System.Func{System.Web.HtmlString,SitecoreDynamicPlaceholders.Presentation.DynamicPlaceholderRenderContext,System.Web.HtmlString},System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Renders a dynamic placeholder.
+            </summary>
+            <param name="placeholderName">The name of the placeholder. Must be a non-empty string.</param>
+            <param name="outputModifier">The function that accepts the HTML output of a specific placeholder and the DynamicPlaceholderRenderContext and returns the modified HTML.</param>
+            <param name="count">Specifies how many placeholders Sitecore renders. Must be a non-negative number.</param>
+            <param name="maxCount">The upper limit of the number of dynamically generated placeholders. Must be a non-negative number.</param>
+            <param name="seed">A number used to calculate a starting value of a generated placeholder key suffix. Must be a non-negative number.</param>
+            <returns>The HTML of the dynamic placeholder.</returns>
+        </member>
+        <member name="M:SitecoreDynamicPlaceholders.Helpers.SitecoreHelper.DynamicPlaceholder(SitecoreDynamicPlaceholders.Presentation.DynamicPlaceholderDefinition)">
+            <summary>
+            Renders a dynamic placeholder.
+            </summary>
+            <param name="definition">Aggregates all options of defining a dynamic placeholder.</param>
+            <returns>The HTML of the dynamic placeholder.</returns>
+        </member>
+    </members>
+</doc>

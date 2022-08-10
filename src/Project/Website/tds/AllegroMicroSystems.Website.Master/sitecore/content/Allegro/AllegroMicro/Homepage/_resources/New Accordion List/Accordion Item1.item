@@ -1,0 +1,81 @@
+----item----
+version: 1
+id: {27D90CDC-AE18-408B-836B-44C71F1AB359}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Accordion List/Accordion Item1
+parent: {8BC53951-47B7-4BC6-B55F-403F9241F00C}
+name: Accordion Item1
+master: {00000000-0000-0000-0000-000000000000}
+template: {0DDC6F8D-52A8-4DD8-A2C1-1E09CDF6AB9E}
+templatekey: Accordion Item
+created: 20190418T082302Z
+
+----version----
+language: en
+version: 1
+revision: 6b4a8870-3786-490b-9f85-5133c5a87115
+
+----field----
+field: {BE90A2FA-43FF-43E6-ADAC-D0CEC329A959}
+name: Heading
+key: heading
+content-length: 18
+
+Policy Information
+----field----
+field: {D5492193-007E-4FEF-B4D5-A83389461DCA}
+name: Content
+key: content
+content-length: 1421
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et<br />
+accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed<br />
+diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<br />
+Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut<br />
+labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem<br />
+ipsum dolor sit.<br />
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et<br />
+accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed<br />
+diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190418T082302Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6b4a8870-3786-490b-9f85-5133c5a87115
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190418T091350Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

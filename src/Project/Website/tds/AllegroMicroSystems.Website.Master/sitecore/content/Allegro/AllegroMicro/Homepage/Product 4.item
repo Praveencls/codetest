@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {70625F09-A610-43BE-9B36-768101D39E74}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Product 4
+parent: {979E6353-48EE-40CD-88C0-046F4C7304FE}
+name: Product 4
+master: {00000000-0000-0000-0000-000000000000}
+template: {455B3E31-BCEF-48F1-8D3A-6892BA3C2A12}
+templatekey: Product
+created: 20190428T095221Z
+
+----version----
+language: en
+version: 1
+revision: 01c004e4-075c-49b3-b14a-75e7709b45cb
+
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 20
+
+Design Support Tools
+----field----
+field: {BE0A19EE-3B21-4E9B-A09F-A45D6B9DED24}
+name: Product Name
+key: product name
+content-length: 12
+
+Product Name
+----field----
+field: {381BA240-143E-49E8-9862-5B5A84CA0501}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{A53283D1-7912-4C37-B7E6-8B4378630B22}" />
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 9
+
+Product 4
+----field----
+field: {F99CC56E-A17C-4F83-8489-B4BBE1F1408A}
+name: Content Summary
+key: content summary
+content-length: 25
+
+This is sample test text.
+----field----
+field: {04324876-EEF8-4EB7-AE4A-9352C0401E96}
+name: Image Summary
+key: image summary
+content-length: 58
+
+<image mediaid="{109AE777-D943-414E-B9DB-154B4C72D9AD}" />
+----field----
+field: {CA16CD58-41CC-466B-80D8-2850AAB05C5D}
+name: Sitemap Title
+key: sitemap title
+content-length: 9
+
+Product 4
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190428T095221Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+01c004e4-075c-49b3-b14a-75e7709b45cb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190428T113401Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

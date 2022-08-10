@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {51844B77-E4D6-4C5A-A9FC-E578E5E39A06}
+database: master
+path: /sitecore/templates/User Defined/Allegro/AllegroMicro/Project/Content Type/RTE Background/__Standard Values
+parent: {6653F237-9949-46BF-B048-30DBE14107A0}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {6653F237-9949-46BF-B048-30DBE14107A0}
+templatekey: RTE Background
+created: 20190521T040821Z
+
+----version----
+language: en
+version: 1
+revision: bab73d4c-1fe6-45c0-bd64-de26a008efd3
+
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 0
+
+
+----field----
+field: {4C346442-E859-4EFD-89B2-44AEDF467D21}
+name: __Valid to
+key: __valid to
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190521T040821Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bab73d4c-1fe6-45c0-bd64-de26a008efd3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190523T085841Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

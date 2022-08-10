@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {1A100CBB-C474-4BDB-B53F-1BE5CB514DBD}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/X/_resources/Accordion  List Folder/Accordion Item 2
+parent: {20B28C20-41B3-4C67-AC80-F788410C858D}
+name: Accordion Item 2
+master: {00000000-0000-0000-0000-000000000000}
+template: {0DDC6F8D-52A8-4DD8-A2C1-1E09CDF6AB9E}
+templatekey: Accordion Item
+created: 20190503T081028Z
+
+----version----
+language: en
+version: 1
+revision: 2753a129-646f-4593-ab19-120d1f9610c9
+
+----field----
+field: {BE90A2FA-43FF-43E6-ADAC-D0CEC329A959}
+name: Heading
+key: heading
+content-length: 10
+
+Contact Us
+----field----
+field: {D5492193-007E-4FEF-B4D5-A83389461DCA}
+name: Content
+key: content
+content-length: 2139
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Illud quaero, quid ei, qui in voluptate summum bonum ponat, consentaneum sit dicere. <b>Duo Reges: constructio interrete.</b> <b>Cum praesertim illa perdiscere ludus esset.</b> Nulla profecto est, quin suam vim retineat a primo ad extremum. Commoda autem et incommoda in eo genere sunt, quae praeposita et reiecta diximus; <i>Aufert enim sensus actionemque tollit omnem.</i> <b>Ut pulsi recurrant?</b> At multis malis affectus. Dat enim intervalla et relaxat. Nonne videmus quanta perturbatio rerum omnium consequatur, quanta confusio? </p>
+
+<p>Cum autem in quo sapienter dicimus, id a primo rectissime dicitur. Graecum enim hunc versum nostis omnes-: Suavis laborum est praeteritorum memoria. Etiam inchoatum, ut, si iuste depositum reddere in recte factis sit, in officiis ponatur depositum reddere; Hoc est non modo cor non habere, sed ne palatum quidem. Tenesne igitur, inquam, Hieronymus Rhodius quid dicat esse summum bonum, quo putet omnia referri oportere? <mark>Ita nemo beato beatior.</mark> <mark>Graece donan, Latine voluptatem vocant.</mark> </p>
+
+<p><mark>Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.</mark> Ergo id est convenienter naturae vivere, a natura discedere. <a href="http://loripsum.net/" target="_blank">Tollitur beneficium, tollitur gratia, quae sunt vincla concordiae.</a> Et quidem iure fortasse, sed tamen non gravissimum est testimonium multitudinis. Quicquid enim a sapientia proficiscitur, id continuo debet expletum esse omnibus suis partibus; Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; </p>
+
+<ul>
+	<li>Quis est autem dignus nomine hominis, qui unum diem totum velit esse in genere isto voluptatis?</li>
+	<li>Videmusne ut pueri ne verberibus quidem a contemplandis rebus perquirendisque deterreantur?</li>
+	<li>Collatio igitur ista te nihil iuvat.</li>
+	<li>At enim, qua in vita est aliquid mali, ea beata esse non potest.</li>
+	<li>Tenesne igitur, inquam, Hieronymus Rhodius quid dicat esse summum bonum, quo putet omnia referri oportere?</li>
+	<li>Nemo igitur esse beatus potest.</li>
+</ul>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190503T081028Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2753a129-646f-4593-ab19-120d1f9610c9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190503T081633Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

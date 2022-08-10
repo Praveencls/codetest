@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {8C74F057-9BAB-41CE-8AD3-50BA4ADAF9E0}
+database: master
+path: /sitecore/templates/User Defined/Allegro/AllegroMicro/Project/Pages/Leadership Bio/__Standard Values
+parent: {DD8325A4-05BF-4748-BBC2-E1E200584453}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {DD8325A4-05BF-4748-BBC2-E1E200584453}
+templatekey: Leadership Bio
+created: 20190510T090956Z
+
+----field----
+field: {FD4E2050-186C-4375-8B99-E8A85DD7436E}
+name: __Enable item fallback
+key: __enable item fallback
+content-length: 1
+
+1
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 687
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{5979015E-7913-4DE9-BBC1-65B6A8996F44}"><r id="{450B1DEC-D5D3-4D39-88C5-BD72A1EA8421}" ph="content" uid="{F123241E-6041-4798-AD4D-23E0B118DC6C}" /><r id="{2BCCBFDF-53F5-4AFD-B598-DE85A5F129BD}" ph="content" uid="{FC2EF412-83F1-4E19-9593-A07CBA923C20}" /><r id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" ph="content" uid="{46C5FD8D-DB63-4291-9E46-CF3B7445189A}" /><r id="{461B95DD-4BB0-4546-92DD-FF7CF8A7E27D}" ph="main-content" uid="{DFA372DB-3D45-47B6-87C2-74450FFB12F0}" /><r id="{753044B5-081B-47ED-BFF6-1449E25E77C1}" ph="content" uid="{DEF9281B-9135-49B1-BE7E-19B854BA6EE9}" /></d></r>
+----version----
+language: en
+version: 1
+revision: 325de6fd-4877-447e-8476-9153acd228b9
+
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 5
+
+$name
+----field----
+field: {D4F1C701-5154-4986-988F-01049BCEFAE5}
+name: Page Title
+key: page title
+content-length: 5
+
+$name
+----field----
+field: {489BBB7B-C678-4975-B218-C6F268430F72}
+name: Heading Summary
+key: heading summary
+content-length: 5
+
+$name
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190510T090956Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+325de6fd-4877-447e-8476-9153acd228b9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190513T191108Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

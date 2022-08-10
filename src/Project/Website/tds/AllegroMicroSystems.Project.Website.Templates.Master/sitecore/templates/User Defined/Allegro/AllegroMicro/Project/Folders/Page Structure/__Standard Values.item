@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {109F16AD-53E2-4D67-858A-C2472D810CED}
+database: master
+path: /sitecore/templates/User Defined/Allegro/AllegroMicro/Project/Folders/Page Structure/__Standard Values
+parent: {1C4DB999-6CAC-4DFD-B24C-7CC96CEB1EDE}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C4DB999-6CAC-4DFD-B24C-7CC96CEB1EDE}
+templatekey: Page Structure
+created: 20190416T075035Z
+
+----field----
+field: {FD4E2050-186C-4375-8B99-E8A85DD7436E}
+name: __Enable item fallback
+key: __enable item fallback
+content-length: 1
+
+1
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 116
+
+{6B44DEE0-D883-4294-8FFF-DA370A883A8B}|{F63E7C78-D508-41FC-BA21-6F156B00AD35}|{870C3682-CB19-4867-8367-D8399F4C1A0B}
+----version----
+language: en
+version: 1
+revision: 7d0bdf8b-9d94-4055-a6b7-31af073d80a9
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190416T075035Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7d0bdf8b-9d94-4055-a6b7-31af073d80a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190417T022009Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

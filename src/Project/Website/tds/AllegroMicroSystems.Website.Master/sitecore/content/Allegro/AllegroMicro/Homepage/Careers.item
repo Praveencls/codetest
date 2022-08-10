@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {2F11FDF8-461A-426C-90BE-4CCEF410F666}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Careers
+parent: {979E6353-48EE-40CD-88C0-046F4C7304FE}
+name: Careers
+master: {356BEB56-5371-4086-AE4F-2E28CBADE0D7}
+template: {77B75B12-BD4A-47C1-9F0D-A44F768296FB}
+templatekey: Page
+created: 20190417T082413Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 23
+
+Office/32x32/window.png
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{DD1890A9-91A0-4D33-939A-1D3AFC4D1B10}
+----version----
+language: en
+version: 1
+revision: cae02b08-fc6f-4be9-9ce0-68b5bab40934
+
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 35
+
+Welcome to Allegro's Career Center!
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 6
+
+Career
+----field----
+field: {D4F1C701-5154-4986-988F-01049BCEFAE5}
+name: Page Title
+key: page title
+content-length: 6
+
+Career
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T082413Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cae02b08-fc6f-4be9-9ce0-68b5bab40934
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190417T082514Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

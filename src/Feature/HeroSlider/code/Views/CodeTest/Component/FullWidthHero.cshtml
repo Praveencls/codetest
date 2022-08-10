@@ -1,0 +1,74 @@
+﻿@using CodeTest.Feature.HeroSlider.Models.GlassModels
+@using Sitecore.Mvc.Presentation
+
+@model I_HeroSlider
+
+@if (Model != null)
+{
+    var textPosition = !string.IsNullOrEmpty(RenderingContext.Current.Rendering.Parameters["Text Alignment"]) ? RenderingContext.Current.Rendering.Parameters["Text Alignment"] : "";
+    var theme = !string.IsNullOrEmpty(RenderingContext.Current.Rendering.Parameters["Color Theme"]) ? RenderingContext.Current.Rendering.Parameters["Color Theme"] : "";
+    var cssScheme = string.Empty;
+    var dotimg = string.Empty;
+
+    if (!string.IsNullOrEmpty(textPosition))
+    {
+        var textPositionItem = Sitecore.Context.Database.GetItem(textPosition);
+        if (textPositionItem != null)
+        {
+            textPosition = textPositionItem.Fields["Alignment"].Value;
+        }
+
+    }
+
+    if (!string.IsNullOrEmpty(theme))
+    {
+        var themeItem = Sitecore.Context.Database.GetItem(theme);
+        if (themeItem != null)
+        {
+            theme = themeItem.Fields["Theme"].Value;
+        }
+        dotimg = "footer-verticalline-" + @theme + ".png";
+    }
+
+    string desktopImage= "";
+    if (!Sitecore.Context.PageMode.IsExperienceEditor && Model.Hero_Image != null)
+    {
+        desktopImage = Model.Hero_Image.Src;
+    }
+    cssScheme = textPosition;
+
+    <div class="carousel-item demo-class @theme">
+        <div class="hero-background-img-desktop" style="background-image: url(@desktopImage);"></div>
+        @if (Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+            @Html.Sitecore().Field("Hero Image", Model.SitecoreItem, new { @class = "slider-bg w-100 desktop-hero-img h-auto" })
+        }
+
+        @Html.Sitecore().Field("Mobile Hero Image", Model.SitecoreItem, new { @class = "slider-bg w-100 mobile-hero-img" })
+        <div class="@cssScheme d-md-block">
+            @if (!string.IsNullOrEmpty(dotimg))
+            {
+                <img src="/images/@dotimg" class="img-fluid bar-img">
+            }
+
+            <h5>
+                @Html.Sitecore().Field("Heading", Model.SitecoreItem)
+            </h5>
+
+            <p>
+                @Html.Sitecore().Field("Content", Model.SitecoreItem)
+            </p>
+
+            @Html.Sitecore().Field("CTA", Model.SitecoreItem)
+
+
+        </div>
+
+        <a class="carousel-control-prev" href=".carouselExampleIndicators" role="button"
+           data-slide="prev"><i class="fa fa-angle-left"></i></a> <a class="carousel-control-next" href=".carouselExampleIndicators" role="button" data-slide="next"> <i class="fa fa-angle-right"></i> </a>
+
+    </div>
+}
+
+
+

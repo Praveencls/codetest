@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {1320D4EE-8BCA-432A-9B4F-F9B8AED830A1}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Header
+parent: {C3142C73-E07A-481E-A286-76710E7E985E}
+name: Header
+master: {00000000-0000-0000-0000-000000000000}
+template: {6B44DEE0-D883-4294-8FFF-DA370A883A8B}
+templatekey: Header
+created: 20190417T024647Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: 364a4c91-3952-42d1-a5cb-c8322bc472b0
+
+----field----
+field: {C761E8EB-861F-4423-B1BA-B98259F0A7D6}
+name: Desktop Logo
+key: desktop logo
+content-length: 58
+
+<image mediaid="{710770E3-5486-4527-BEDE-7D8AD7389282}" />
+----field----
+field: {17A67D6C-3B98-4488-BEDF-ECA0CCDDFFF2}
+name: Mobile Logo
+key: mobile logo
+content-length: 58
+
+<image mediaid="{B7DCBD59-9AE4-4A24-BAAB-B6B1FD24C4CC}" />
+----field----
+field: {842277E6-6E5A-4F8B-8C8F-8CA95D5794B2}
+name: Link
+key: link
+content-length: 133
+
+<link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{979E6353-48EE-40CD-88C0-046F4C7304FE}" />
+----field----
+field: {7A07A770-AE22-49BC-B0E0-4BD2421C5032}
+name: Main Navigation
+key: main navigation
+content-length: 38
+
+{BC86901A-F1BB-4790-99C6-B7ABD8D0A1F5}
+----field----
+field: {6C2430D2-8196-4427-9A0E-7AD692E9EC37}
+name: Utility Navigation
+key: utility navigation
+content-length: 38
+
+{A60D289C-32EF-4476-826B-6CE54A4FE119}
+----field----
+field: {7F7B7E32-2C74-487D-BCD5-F19B0A1749B7}
+name: Utility Title
+key: utility title
+content-length: 50
+
+Quality standards and Environmental Certifications
+----field----
+field: {D259AF36-3E49-49D2-8156-C98F774EC6D7}
+name: Utility Font Awesome
+key: utility font awesome
+content-length: 10
+
+fa fa-leaf
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T024647Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+364a4c91-3952-42d1-a5cb-c8322bc472b0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190417T104225Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,136 @@
+----item----
+version: 1
+id: {C904284D-7EEC-45CB-8199-A3D1A5CB5A0A}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Article
+parent: {979E6353-48EE-40CD-88C0-046F4C7304FE}
+name: Article
+master: {00000000-0000-0000-0000-000000000000}
+template: {80551B95-B4AB-4DF9-B496-052F39F69B11}
+templatekey: Article
+created: 20190501T072316Z
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{B09C9C9A-AB91-4F72-8EBE-DED26C7F0A6F}
+----version----
+language: en
+version: 1
+revision: d7e22e61-7b21-4bcd-8911-f6e530cab2e8
+
+----field----
+field: {7591798E-4315-4BBC-A9C2-5648196D5FE7}
+name: Article Date
+key: article date
+content-length: 16
+
+20190501T072300Z
+----field----
+field: {8071B8FD-2A65-482F-B2C2-C19962B2AC54}
+name: Article Type
+key: article type
+content-length: 38
+
+{1CC5395F-6A29-42C0-AEC0-3099C80AD69C}
+----field----
+field: {06F52ADE-0921-408B-81C9-AEFEC4655177}
+name: Article Image
+key: article image
+content-length: 58
+
+<image mediaid="{307548D1-6530-4F94-A75A-95B3CD070698}" />
+----field----
+field: {2CA6A3A1-2509-4EAF-94A4-5A4263FEF997}
+name: Article Author
+key: article author
+content-length: 8
+
+JOHN DOE
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 98
+
+Allegro MicroSystems, LLC Expands Automotive LED Drivers Portfolio with Simple Buck-Boost Solution
+----field----
+field: {8E8BEFB8-6D75-4599-AE25-C3BDF25CF0EB}
+name: Content
+key: content
+content-length: 5538
+
+<h2 class="text-left" style="color: #003057; background-color: #eaeaea; margin-top: 15px; margin-bottom: 15px;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat (H2)</h2>
+<p class="text-left" style="color: #363636; background-color: #eaeaea; margin-top: 15px; margin-bottom: 1rem;">Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<h3 class="text-left" style="color: #008065; background-color: #eaeaea; margin-top: 0px; margin-bottom: 15px;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat (H3)</h3>
+<p class="text-left" style="color: #363636; background-color: #eaeaea; margin-top: 15px; margin-bottom: 1rem;">Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<h5 class="text-left" style="color: #000000; background-color: #eaeaea; margin-top: 0px; margin-bottom: 0.5rem;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</h5>
+<p class="text-left" style="color: #363636; background-color: #eaeaea; margin-top: 15px; margin-bottom: 1rem;">Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<ul class="text-left" style="color: #212529; background-color: #eaeaea; margin-top: 0px; margin-bottom: 1rem; list-style-type: none; list-style-image: initial;">
+    <li>Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</li>
+    <li>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
+    <li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</li>
+    <li>Tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+</ul>
+<p class="text-left d-sm-none d-md-block" style="color: #363636; background-color: #eaeaea; margin-top: 15px; margin-bottom: 1rem;">Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+<ol class="text-left d-sm-none d-md-block" style="color: #212529; background-color: #eaeaea; margin-top: 0px; margin-bottom: 1rem;">
+    <li>Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</li>
+    <li>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</li>
+    <li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</li>
+    <li>Tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</li>
+</ol>
+<p class="quota text-left" style="color: #008065; background-color: #eaeaea; margin-top: 15px; margin-bottom: 1rem; padding-top: 15px; padding-bottom: 15px; border-top: 2px dashed #008065; border-bottom: 2px dashed #008065;">&ldquo;Sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt"</p>
+<p class="d-none d-sm-block text-left" style="color: #363636; background-color: #eaeaea; margin-top: 15px; margin-bottom: 1rem;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,&nbsp;<span style="text-decoration: underline;">sed diam nonumy eirmod&nbsp;</span>tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p class="d-none d-sm-block text-left" style="color: #363636; background-color: #eaeaea; margin-top: 15px; margin-bottom: 1rem;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet</p>
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 7
+
+Article
+----field----
+field: {CA16CD58-41CC-466B-80D8-2850AAB05C5D}
+name: Sitemap Title
+key: sitemap title
+content-length: 7
+
+Article
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 502
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{B5B13C94-1876-42E7-8E7C-D03F8D86DB5C}" p:after="r[@uid='{CE1D29BC-195D-45E8-A607-BACB00AE8C11}']" s:id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" s:ph="content" /><r uid="{8302B8A5-501A-402A-85F5-AB2D940962EB}" p:after="r[@uid='{B5B13C94-1876-42E7-8E7C-D03F8D86DB5C}']" s:id="{C76BE008-1E01-4CD7-AA38-136AD0B71471}" s:ph="main-content" /><r uid="{A4AA6E1C-3719-4EA9-8E1E-949A69648DC2}" p:after="*[1=2]" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190501T072316Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d7e22e61-7b21-4bcd-8911-f6e530cab2e8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190501T073210Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

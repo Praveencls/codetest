@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {35DD86F3-6737-4041-9BEE-AD01F1A88F29}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/404
+parent: {979E6353-48EE-40CD-88C0-046F4C7304FE}
+name: 404
+master: {00000000-0000-0000-0000-000000000000}
+template: {77B75B12-BD4A-47C1-9F0D-A44F768296FB}
+templatekey: Page
+created: 20190414T113035Z
+
+----version----
+language: en
+version: 1
+revision: d0375c89-c189-4ff7-8166-617ee534cee9
+
+----field----
+field: {2CE0A452-4A92-4A7C-B163-FF32A595DE83}
+name: Exclude From Sitemap
+key: exclude from sitemap
+content-length: 1
+
+1
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 557
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{5C97E4B8-6E6B-42AC-8B47-9A21094F483C}" p:after="r[@uid='{82D19BE2-6094-437E-A895-E4EEB312653B}']" s:id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" s:ph="content" /><r uid="{DB14B719-4940-411B-A1F7-D107ACAEE0C0}" p:after="r[@uid='{5C97E4B8-6E6B-42AC-8B47-9A21094F483C}']" s:ds="{DA397A8D-184A-4B58-ADE0-BC194B12DD92}" s:id="{E47507C6-4E03-4A96-B1A8-383ED5D72F1D}" s:par="" s:ph="main-content" /><r uid="{FD3FD828-5020-451F-8471-08A03D2C4651}" p:after="*[1=2]" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190414T113035Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d0375c89-c189-4ff7-8166-617ee534cee9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190423T102235Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

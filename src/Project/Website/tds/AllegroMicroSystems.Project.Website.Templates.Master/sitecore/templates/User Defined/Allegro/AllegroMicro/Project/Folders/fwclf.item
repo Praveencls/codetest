@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {F99736CC-6457-487A-80D8-6B002B3FE330}
+database: master
+path: /sitecore/templates/User Defined/Allegro/AllegroMicro/Project/Folders/Full Width Callout Listing Folder
+parent: {2D3F29BB-75E6-4554-801E-F3A31E63999A}
+name: Full Width Callout Listing Folder
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+created: 20190428T132336Z
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{C740374D-AFCE-40A7-A0D9-F36D8C57F52F}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 38
+
+{EA0AA8F4-673E-4B01-A415-19283BE7FB27}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 80
+
+http://allegromicrosystems.local/temp/iconcache/multimedia/32x32/split_sound.png
+----version----
+language: en
+version: 1
+revision: 2d08cd20-b489-4c42-a018-497c1366196d
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190428T132336Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2d08cd20-b489-4c42-a018-497c1366196d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190428T132504Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

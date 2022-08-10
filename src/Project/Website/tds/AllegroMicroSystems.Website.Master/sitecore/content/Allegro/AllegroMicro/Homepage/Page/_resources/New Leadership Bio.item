@@ -1,0 +1,98 @@
+----item----
+version: 1
+id: {4069759C-5E04-408F-804F-9F8D49246B61}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Page/_resources/New Leadership Bio
+parent: {84A59754-51B3-42F6-A0A0-BD1782442F37}
+name: New Leadership Bio
+master: {00000000-0000-0000-0000-000000000000}
+template: {DD8325A4-05BF-4748-BBC2-E1E200584453}
+templatekey: Leadership Bio
+created: 20190430T145645Z
+
+----version----
+language: en
+version: 1
+revision: 75b507eb-11f1-4aa6-ab6b-ab4d475817ef
+
+----field----
+field: {41C806D8-23D6-4B80-BACD-D10CA190435A}
+name: Whole Name
+key: whole name
+content-length: 8
+
+Ravi Vag
+----field----
+field: {FEA1E862-7ADA-4961-BBFA-B1ADDC2E27B4}
+name: Title
+key: title
+content-length: 37
+
+President and Chief Executive Officer
+----field----
+field: {C42CEFF5-1B13-4A33-8F44-2B02167EDEFE}
+name: Bio
+key: bio
+content-length: 1050
+
+<p>Ravi Vig serves as President &amp; CEO of Allegro Microsystems. He joined Allegro in 1984 as an Analog Design Engineer and then as a
+                Design Manager working on optical and magnetic sensor ICs, helping to launch the company’s magnetic sensor IC business. He went
+                on to head the marketing effort for these innovative products, leading to his role as the Vice President of the Sensors Business Unit. He
+                has since served as the Senior VP of Business Development, responsible for the Sensor and Power IC businesses, and Chief Operating
+                Officer prior to being named President and CEO in 2016.
+                </p>
+
+
+            <p>Ravi earned his BSEE from Rutgers University, MSc from Dartmouth, his MBA from Southern New Hampshire University and has
+                completed the Global Executive Leadership Program (GELP) at Yale University</p>
+                
+            <p>Ravi currently serves on the Allegro Microsystems, Inc. Board of Directors and holds over 60 U.S. Patents.</p>
+----field----
+field: {78380580-4145-41E6-BCDA-3113C3F45703}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{129147E2-5C3F-49D2-BB12-1D80DBF6093A}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190430T144359Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+75b507eb-11f1-4aa6-ab6b-ab4d475817ef
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190501T035954Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

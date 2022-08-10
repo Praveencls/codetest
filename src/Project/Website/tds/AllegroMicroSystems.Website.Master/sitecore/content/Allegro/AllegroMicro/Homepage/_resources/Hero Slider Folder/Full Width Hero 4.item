@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {98A407DC-2B59-49D7-A087-FDB75FA89C7B}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Hero Slider Folder/Full Width Hero 4
+parent: {31CBC803-57F5-4A1E-A220-C5650FF2A28A}
+name: Full Width Hero 4
+master: {00000000-0000-0000-0000-000000000000}
+template: {43725916-0284-4D70-AC0A-0FD10717F514}
+templatekey: Hero Slider Item
+created: 20190422T123743Z
+
+----version----
+language: en
+version: 1
+revision: b03daa22-bace-479e-a76a-e4d527568cf2
+
+----field----
+field: {C5ADAF08-336E-47C2-9558-FE75C4666974}
+name: Heading
+key: heading
+content-length: 16
+
+Slide Item 3 New
+----field----
+field: {2719DC61-60A0-41FB-8C80-8E117620ED3A}
+name: Content
+key: content
+content-length: 21
+
+Slide Item 3 subtitle
+----field----
+field: {622929D4-1C87-4BB7-B3FF-D5AC1B3C04F4}
+name: CTA
+key: cta
+content-length: 97
+
+<link linktype="internal" querystring="" target="" id="{27A2C653-C896-4196-BFB3-EEDD511BE6F7}" />
+----field----
+field: {CA76ABD6-B724-44AA-8852-0146CE69EAD4}
+name: Hero Image
+key: hero image
+content-length: 58
+
+<image mediaid="{00919E43-255D-4E97-9AA6-7E471EACB063}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190422T123743Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b03daa22-bace-479e-a76a-e4d527568cf2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190422T124045Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

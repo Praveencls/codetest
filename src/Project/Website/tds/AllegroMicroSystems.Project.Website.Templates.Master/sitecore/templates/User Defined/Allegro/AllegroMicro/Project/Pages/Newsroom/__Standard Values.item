@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {87149E59-DBB3-436E-806E-B8961D0FBE10}
+database: master
+path: /sitecore/templates/User Defined/Allegro/AllegroMicro/Project/Pages/Newsroom/__Standard Values
+parent: {8C949F62-E04D-45F3-8011-0682B0A4FB1F}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {8C949F62-E04D-45F3-8011-0682B0A4FB1F}
+templatekey: Newsroom
+created: 20190528T024720Z
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 77
+
+{12241058-E44E-4796-AE24-28BB137F4A4A}|{803C5CCA-2F67-44D2-B125-158280469004}
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 799
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{5979015E-7913-4DE9-BBC1-65B6A8996F44}"><r id="{450B1DEC-D5D3-4D39-88C5-BD72A1EA8421}" ph="content" uid="{6792C826-3802-4855-8929-F367D9BA1135}" /><r id="{2BCCBFDF-53F5-4AFD-B598-DE85A5F129BD}" ph="content" uid="{8D569718-B4E8-4B5C-A591-1B3510E8ACC1}" /><r id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" ph="content" uid="{18AAED39-C8F0-4DA3-950C-0185D508D548}" /><r id="{E47507C6-4E03-4A96-B1A8-383ED5D72F1D}" ph="main-content" uid="{8B166014-7D81-4963-9F91-73BF06AB754C}" /><r id="{5670A075-4D14-42AB-A0D8-44A8D32AD51F}" ph="main-content" uid="{3C5B0DF1-9A13-4BCD-B64A-D82C9C913F64}" /><r id="{753044B5-081B-47ED-BFF6-1449E25E77C1}" ph="content" uid="{D00DCCBF-BA70-4DFC-BEFF-FDFFC94A1817}" /></d></r>
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{59ACC7F9-4360-4D97-B745-6034F361C640}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{59ACC7F9-4360-4D97-B745-6034F361C640}
+----version----
+language: en
+version: 1
+revision: 84412b3d-5fca-41a7-b46a-a1ea89cf84f2
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190510T092222Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+84412b3d-5fca-41a7-b46a-a1ea89cf84f2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190528T031645Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{08213940-8F60-4264-903B-AD5282E44B41}

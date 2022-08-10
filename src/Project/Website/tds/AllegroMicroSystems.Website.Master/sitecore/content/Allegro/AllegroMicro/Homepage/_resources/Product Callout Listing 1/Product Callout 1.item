@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {0E49C510-6A35-4503-9EE0-C66983982BC8}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Product Callout Listing 1/Product Callout 1
+parent: {C273869C-D999-4BDA-BE52-706CA7739073}
+name: Product Callout 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {A099DC2D-1E23-499F-B101-DBB0902148F4}
+templatekey: Product Callout
+created: 20190428T122308Z
+
+----version----
+language: en
+version: 1
+revision: 7d60341a-7f93-481a-bced-6a83054a2e72
+
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 9
+
+Packaging
+----field----
+field: {8E8BEFB8-6D75-4599-AE25-C3BDF25CF0EB}
+name: Content
+key: content
+content-length: 99
+
+<span style="font-size: 20px;">This device is supplied in a 24-pin QSOP (suffix LF) package.</span>
+----field----
+field: {8EC855A5-0F34-4FB6-94C6-9FE09C388C41}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{A53283D1-7912-4C37-B7E6-8B4378630B22}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190428T122308Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7d60341a-7f93-481a-bced-6a83054a2e72
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190428T125624Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

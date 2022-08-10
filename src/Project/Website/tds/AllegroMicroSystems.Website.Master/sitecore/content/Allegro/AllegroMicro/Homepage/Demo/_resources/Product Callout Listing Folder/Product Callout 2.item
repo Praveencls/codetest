@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {AC9DC5AF-9A5A-4747-8A44-FCB99B4F34D5}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Demo/_resources/Product Callout Listing Folder/Product Callout 2
+parent: {653EFCED-7E46-4A5B-ADAD-C95044913B34}
+name: Product Callout 2
+master: {00000000-0000-0000-0000-000000000000}
+template: {A099DC2D-1E23-499F-B101-DBB0902148F4}
+templatekey: Product Callout
+created: 20190429T142049Z
+
+----version----
+language: en
+version: 1
+revision: 6f648798-6719-4edf-84d3-34b9edb156fc
+
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 15
+
+Product Callout
+----field----
+field: {8E8BEFB8-6D75-4599-AE25-C3BDF25CF0EB}
+name: Content
+key: content
+content-length: 2000
+
+<span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span><span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span><span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span><span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span><span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span><span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span><span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span><span style="color: rgb(34, 34, 34); font-family: &quot;PT Sans&quot;, &quot;Droid Sans&quot;, Arial, sans-serif;">Tu enim ista lenius, hic Stoicorum more nos vexat. Quarum ambarum rerum cum medicinam pollicetur, luxuriae licentiam pollicetur.</span>
+----field----
+field: {8EC855A5-0F34-4FB6-94C6-9FE09C388C41}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{F9B805AE-A642-4FD3-89BE-F606405E20EE}" />
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190429T142049Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f648798-6719-4edf-84d3-34b9edb156fc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190429T142206Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

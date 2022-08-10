@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {0B3BB2F3-0EE2-4099-B189-DC848456485E}
+database: master
+path: /sitecore/system/Settings/Allegro/AllegroMicro/Hero Content Theme Folder/Dark
+parent: {F9C3415C-3059-4FF8-8143-69331C45803B}
+name: Dark
+master: {00000000-0000-0000-0000-000000000000}
+template: {EBDDA730-C7D3-41E0-AB6F-4322045F118B}
+templatekey: Theme
+created: 20190524T044800Z
+
+----version----
+language: en
+version: 1
+revision: f4255596-6564-4bab-89b2-5a9fee24b510
+
+----field----
+field: {0A085EEC-22E3-4C20-902F-8FA8794F6D43}
+name: Theme
+key: theme
+content-length: 4
+
+dark
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190524T044800Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f4255596-6564-4bab-89b2-5a9fee24b510
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190524T044805Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

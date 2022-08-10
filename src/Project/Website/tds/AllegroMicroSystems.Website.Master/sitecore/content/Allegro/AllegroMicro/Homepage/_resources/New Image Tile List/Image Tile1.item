@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {94E0A200-9DD8-4363-8F32-CF3E975B632A}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/_resources/New Image Tile List/Image Tile1
+parent: {DAEA6A8E-1E65-4973-84F0-A4E7B658F860}
+name: Image Tile1
+master: {00000000-0000-0000-0000-000000000000}
+template: {D9CE0D9D-75B2-486F-BE6D-C4AD7B0950F2}
+templatekey: Image Tile
+created: 20190415T103049Z
+
+----version----
+language: en
+version: 1
+revision: 19608b66-0616-4024-adec-ca3146153fe5
+
+----field----
+field: {A49F8C6B-E1CC-4E32-8242-320F8A719396}
+name: Content
+key: content
+content-length: 5
+
+SENSE
+----field----
+field: {0C72F5A7-E528-4D3A-92B6-001ECEAC692F}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{2196ED60-1CC2-4E89-B5BE-F0CE9BFCB261}" />
+----field----
+field: {DCB4A24B-4686-432E-907B-CEE0265A8DC2}
+name: URL
+key: url
+content-length: 0
+
+
+----field----
+field: {DD685845-D6B4-4037-B768-583C8F28B315}
+name: Background Color
+key: background color
+content-length: 38
+
+{04D53F47-CE62-4F73-B896-1EB8BFB0FC22}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190415T103049Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+19608b66-0616-4024-adec-ca3146153fe5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190426T035655Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

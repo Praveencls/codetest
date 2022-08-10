@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {3A10FFD9-FEBD-4EBE-954D-DEF92FB47BDB}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Shared Content/Sales Contacts Folder/Africa/South Africa/Digi-Key
+parent: {50169F9F-26C6-4454-A2F2-3F5B7D9F69A8}
+name: Digi-Key
+master: {00000000-0000-0000-0000-000000000000}
+template: {637CAD63-2BBD-4C34-94CB-97E1AE4EDAAE}
+templatekey: Representative
+created: 20190504T184636Z
+
+----version----
+language: en
+version: 1
+revision: 3922515a-0a6c-4aaf-898d-9afbf0d5ecc3
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190504T184636Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3922515a-0a6c-4aaf-898d-9afbf0d5ecc3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190505T024043Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

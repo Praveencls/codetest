@@ -1,0 +1,115 @@
+----item----
+version: 1
+id: {062CB324-8D5C-4975-B51D-37E57B2F0B9C}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Products/Current-Sensor-ICs/Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs
+parent: {A3253277-C86F-42A5-9988-888C315F205B}
+name: Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs
+master: {00000000-0000-0000-0000-000000000000}
+template: {455B3E31-BCEF-48F1-8D3A-6892BA3C2A12}
+templatekey: Product
+created: 20190424T071703Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 71
+
+http://allegromicrosystems.local/temp/iconcache/business/32x32/data.png
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{25006453-2A78-4F1D-A880-BFE093B2A1FE}
+----version----
+language: en
+version: 1
+revision: b5068740-b2f4-438a-9d9a-7f57526027db
+
+----field----
+field: {C2C996A5-B46A-422F-A543-556C1325F584}
+name: Heading
+key: heading
+content-length: 39
+
+0 to 50 A Integrated Current Sensor ICs
+----field----
+field: {0D290D37-A28A-4915-993E-5398338DC1FB}
+name: Product ID
+key: product id
+content-length: 49
+
+Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs
+----field----
+field: {8E8BEFB8-6D75-4599-AE25-C3BDF25CF0EB}
+name: Content
+key: content
+content-length: 1027
+
+<p>
+<img alt="0 to 50 A Integrated Current Sensor ICs" src="~/media/6A525F9788B54914B02942CF65B9A7D2.ashx?h=201&amp;w=325" style="width: 325px; height: 201px; float: right;" /></p>
+<p>Allegro offers a unique solution for current sensing through the development of proprietary packaging that employs flip-chip technology. This technology generates excellent magnetic coupling in a core-less package design and provides up to 3000&nbsp;VRMS galvanic isolation. The low-profile, small form factor packages are ideal for reducing PCB area over sense resistor op-amp or bulky current transformer configurations. The low resistance internal conductor allows for sensing up to 50&nbsp;A continuous current. Allegro's fully integrated current sensor ICs are factory programmed at end of line testing to maximize device accuracy over temperature, and providing typical output error of 1%.</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<h2 style="text-align: center;">Current Sensor IC 0 to 50 A Selection Guide</h2>
+<p> </p>
+----field----
+field: {BE0A19EE-3B21-4E9B-A09F-A45D6B9DED24}
+name: Product Name
+key: product name
+content-length: 49
+
+Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 39
+
+0 to 50 A Integrated Current Sensor ICs
+----field----
+field: {CA16CD58-41CC-466B-80D8-2850AAB05C5D}
+name: Sitemap Title
+key: sitemap title
+content-length: 49
+
+Zero-To-Fifty-Amp-Integrated-Conductor-Sensor-ICs
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 527
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{DD152F6E-D4D7-4B58-81E0-FC530FC7D4FC}" p:after="r[@uid='{48EB6EC3-6E2C-4E7F-8B25-E38A18866987}']" s:ds="" s:id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" s:par="Position" s:ph="content" /><r uid="{6F6D028F-DCBC-44EB-82BE-25F6AB7A0017}" p:after="r[@uid='{DD152F6E-D4D7-4B58-81E0-FC530FC7D4FC}']" s:id="{22A75D6E-6144-4B87-B1FF-4DCAAA8009C9}" s:ph="main-content" /><r uid="{1460CC3E-C692-45D4-8133-E4DD15B4681C}" p:after="*[1=2]" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190424T071703Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b5068740-b2f4-438a-9d9a-7f57526027db
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190429T091209Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

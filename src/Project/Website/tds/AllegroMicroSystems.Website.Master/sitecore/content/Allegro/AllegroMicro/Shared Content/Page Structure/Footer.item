@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {C3D455B4-6F0A-460B-8B69-8E3EAA6B8E84}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure/Footer
+parent: {C3142C73-E07A-481E-A286-76710E7E985E}
+name: Footer
+master: {00000000-0000-0000-0000-000000000000}
+template: {F63E7C78-D508-41FC-BA21-6F156B00AD35}
+templatekey: Footer
+created: 20190417T024654Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----version----
+language: en
+version: 1
+revision: fa3e6daa-e1f6-4bb2-b837-5be19eedff0c
+
+----field----
+field: {5CF61D96-ACC9-4C1B-8F5D-88923058C560}
+name: Logo
+key: logo
+content-length: 58
+
+<image mediaid="{3F7354EC-D95D-423F-9C86-751472D663EE}" />
+----field----
+field: {CDAE7AE5-02A0-42BA-B0C7-93D5B93BAE75}
+name: Link
+key: link
+content-length: 133
+
+<link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{979E6353-48EE-40CD-88C0-046F4C7304FE}" />
+----field----
+field: {8972F13A-CFD5-48EA-AF81-A92BD012A074}
+name: Content
+key: content
+content-length: 116
+
+Inspired to innovate, Allegro Microsystems is redefining the future of power and sensing semiconductor technologies.
+----field----
+field: {09677439-7CA2-4B52-9BDC-D8D1A3062112}
+name: Footer Navigation
+key: footer navigation
+content-length: 38
+
+{BC86901A-F1BB-4790-99C6-B7ABD8D0A1F5}
+----field----
+field: {3E4E7BD1-4CD3-4722-ABE1-D0DD8AD0BD4E}
+name: Social Navigation
+key: social navigation
+content-length: 38
+
+{FBC8C3E1-03C8-4AB7-836D-BD7C414BD5C0}
+----field----
+field: {60A254F4-F784-4570-93F0-69A3BAD9B111}
+name: Utility Navigation
+key: utility navigation
+content-length: 38
+
+{83732AA6-B39F-49C0-A214-C1B3A685FDC2}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T024654Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fa3e6daa-e1f6-4bb2-b837-5be19eedff0c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190417T104247Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

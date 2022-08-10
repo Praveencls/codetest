@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {E1981228-310E-4BFD-B671-F1C38145C1E2}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/two-column/Page
+parent: {F9AE8062-7FEC-4403-8C11-2807CC744F3A}
+name: Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {77B75B12-BD4A-47C1-9F0D-A44F768296FB}
+templatekey: Page
+created: 20190416T030146Z
+
+----version----
+language: en
+version: 1
+revision: d3582491-409b-412e-9d4c-a2b4c78e7ece
+
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 4
+
+Page
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190414T190329Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d3582491-409b-412e-9d4c-a2b4c78e7ece
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190415T123538Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,45 @@
+----item----
+version: 1
+id: {F1316F76-D69C-406C-BC14-93006AA8C0B3}
+database: master
+path: /sitecore/system/Settings/Allegro/AllegroMicro/RTE Background Folder
+parent: {CF1E815F-52C4-477F-AA2E-E2A7F5DF9948}
+name: RTE Background Folder
+master: {00000000-0000-0000-0000-000000000000}
+template: {82B93A5A-A362-4194-A1FF-FE013BD86420}
+templatekey: RTE Background Folder
+created: 20190415T040035Z
+
+----version----
+language: en
+version: 1
+revision: 90f7995a-72b9-4c79-bdc2-c1b871489d26
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190415T040035Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+90f7995a-72b9-4c79-bdc2-c1b871489d26
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190424T092217Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

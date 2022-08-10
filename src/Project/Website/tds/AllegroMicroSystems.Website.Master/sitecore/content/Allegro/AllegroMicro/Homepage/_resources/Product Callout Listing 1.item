@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {C273869C-D999-4BDA-BE52-706CA7739073}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/_resources/Product Callout Listing 1
+parent: {4D08E910-BDE8-44AF-A982-FE11806BA86B}
+name: Product Callout Listing 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {6BDCEAEA-56F1-49F1-AB3C-650C22A9215A}
+templatekey: Product Callout Listing Folder
+created: 20190428T110402Z
+
+----version----
+language: en
+version: 1
+revision: b4841a53-ea76-488e-a997-2785f5b40685
+
+----field----
+field: {25E5E40D-B215-43F7-8709-B888C0287385}
+name: Footer Content
+key: footer content
+content-length: 378
+
+<span style="font-size: 14px;">Allegro MicroSystems, LLC provides Gerber files for reference only. Any material, information, or instructions are provided AS IS without warranty of any kind. It is the responsibility of the User(s) to optimize any Printed Circuit Board (PCB) layout, as well as the selection of any components, for the specific application of the User(s).</span>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190428T110402Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b4841a53-ea76-488e-a997-2785f5b40685
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190428T110520Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

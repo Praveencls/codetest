@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {F8624F0D-780D-4A00-906A-882C34095419}
+database: master
+path: /sitecore/templates/Branches/Allegro/AllegroMicro/Project/Product Family/$name
+parent: {A0BFBCD4-0BCE-41C6-BD44-EE846FF929FA}
+name: $name
+master: {00000000-0000-0000-0000-000000000000}
+template: {3682A530-8614-49BE-9BDC-5CD978BB4F46}
+templatekey: Product Family
+created: 20190508T151418Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 953
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema" ><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{5979015E-7913-4DE9-BBC1-65B6A8996F44}"><r id="{450B1DEC-D5D3-4D39-88C5-BD72A1EA8421}" ph="content" uid="{0E1A911A-7DD0-4353-BAA6-2BA8C6471A4C}" /><r id="{2BCCBFDF-53F5-4AFD-B598-DE85A5F129BD}" ph="content" uid="{22B34353-4159-4AE3-8728-F0E23DFA42D5}" /><r id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" ph="content" uid="{3715374D-7EC3-476B-BBFE-57E8090CB156}" /><r ds="" id="{E47507C6-4E03-4A96-B1A8-383ED5D72F1D}" par="" ph="main-content" uid="{DB4E7BB1-CA32-40DC-9DDF-435FBDAE1364}" /><r id="{22A75D6E-6144-4B87-B1FF-4DCAAA8009C9}" ph="main-content" uid="{95A3A664-60A9-4E81-8C0C-F66BEC561F45}" /><r ds="" id="{19600274-7B4E-470D-B578-3545B8EAD0F8}" par="Background Color" ph="main-content" uid="{1C02CA83-2659-45F7-99E1-76D326C0718C}" /><r id="{753044B5-081B-47ED-BFF6-1449E25E77C1}" ph="content" uid="{C7DB86CF-9B56-4DA9-93C2-541174E9FCA4}" /></d></r>
+----version----
+language: en
+version: 1
+revision: ffc39915-4589-4608-87de-58816f115c9e
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190508T151418Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ffc39915-4589-4608-87de-58816f115c9e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190509T130123Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

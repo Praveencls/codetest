@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {FC293176-7A65-4613-A653-F16C2EC68C24}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Homepage/Demo1
+parent: {979E6353-48EE-40CD-88C0-046F4C7304FE}
+name: Demo1
+master: {00000000-0000-0000-0000-000000000000}
+template: {77B75B12-BD4A-47C1-9F0D-A44F768296FB}
+templatekey: Page
+created: 20190501T062746Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 23
+
+Office/32x32/window.png
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{DD1890A9-91A0-4D33-939A-1D3AFC4D1B10}
+----version----
+language: en
+version: 1
+revision: 1bea12fd-cebd-4356-bb5d-fd8ff000e720
+
+----field----
+field: {BC169EF4-6216-47C2-9F82-DEDA5336A733}
+name: Navigation Title
+key: navigation title
+content-length: 4
+
+Demo
+----field----
+field: {CA16CD58-41CC-466B-80D8-2850AAB05C5D}
+name: Sitemap Title
+key: sitemap title
+content-length: 4
+
+Demo
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1710
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{48067B9B-E045-4D84-A820-8ED1BCAC65D9}" p:after="p[@uid='{8DBDE890-C140-428D-BF94-2E96F88E931E}']" s:ds="{614BD2D0-4062-4C56-9B62-3AA247D7D4FE}" s:id="{E47507C6-4E03-4A96-B1A8-383ED5D72F1D}" s:ph="/content/main-content" /><r uid="{BE6890E6-2DDA-4E66-98FA-233908B246DE}" p:after="r[@uid='{48067B9B-E045-4D84-A820-8ED1BCAC65D9}']" s:ds="{87759F69-C825-4F36-9D50-E468D5A4B26A}" s:id="{19600274-7B4E-470D-B578-3545B8EAD0F8}" s:par="Background Color={08A934B7-13D5-4421-8297-AF729B8321BB}" s:ph="/content/main-content" /><r uid="{C2A02E36-DFB5-4E2A-B576-7587322BED50}" p:after="r[@uid='{BE6890E6-2DDA-4E66-98FA-233908B246DE}']" s:ds="{A2A347E2-614F-4E51-AE22-9E3D55B0D738}" s:id="{412F8FA0-E1F6-4401-8F2F-FEF6A3FDB1D6}" s:par="" s:ph="/content/main-content/full-width-carousel" /><r uid="{223F3996-33BE-40CB-8509-F317EA34B7C3}" p:after="r[@uid='{C2A02E36-DFB5-4E2A-B576-7587322BED50}']" s:ds="{CAF63142-1598-4E46-9311-2BA61556BC0B}" s:id="{412F8FA0-E1F6-4401-8F2F-FEF6A3FDB1D6}" s:par="" s:ph="/content/main-content/full-width-carousel" /><r uid="{FB18C5E2-C078-40C8-9FE1-38E1E73CD138}" p:after="r[@uid='{223F3996-33BE-40CB-8509-F317EA34B7C3}']" s:ds="{90991B6D-7DE7-4063-BD02-D57CDFAFA4F1}" s:id="{DC381E36-5025-4070-9C60-F925F393BC74}" s:par="" s:ph="/content/main-content" /><r uid="{4852860E-7A84-495F-B92E-918C99AD43BF}" p:after="r[@uid='{82D19BE2-6094-437E-A895-E4EEB312653B}']" s:ds="{AE727B97-090C-4CF1-A9AD-8096C70DD6F7}" s:id="{A9CFA62B-FEE5-4072-8B1E-3035502E7FA2}" s:par="Position={4609E579-61A3-44B0-99BE-7DBC0DE06EFF}" s:ph="content" /><r uid="{FD3FD828-5020-451F-8471-08A03D2C4651}" p:after="*[1=2]" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190429T130628Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1bea12fd-cebd-4356-bb5d-fd8ff000e720
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190501T063217Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

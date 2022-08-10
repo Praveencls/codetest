@@ -1,0 +1,22 @@
+﻿@using Sitecore.Mvc.Extensions
+@using Sitecore.Mvc
+@using CodeTest.Feature.HeroSlider.Models.GlassModels
+@using CodeTest.Foundation.DynamicPlaceholder.Helpers
+
+@model  I_Herosliderfolder
+
+@if (Model != null)
+{
+    <!--Start: Hero Slider-->
+    <div class="container-fluid home-bg d-flex">
+        <div id="carouselExampleIndicators" class="carousel slide container carouselExampleIndicators" data-ride="carousel">
+            <div class="carousel-inner">
+                @using (Html.EditFrame(Model.SitecoreItem.Paths.FullPath, null, "Full With Hero Item", "Edit Hero Slide Item", null, null))
+                {
+                    @Html.Sitecore().DynamicPlaceholder("full-width-carousel")
+                }
+            </div>
+        </div>
+    </div>
+     <!--End: Hero Slider-->
+}

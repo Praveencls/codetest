@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {E6D181AE-A7A7-4BD9-8ABA-F0D3316BC92F}
+database: master
+path: /sitecore/templates/User Defined/Allegro/AllegroMicro/Project/Components/Image Callout/Image callout
+parent: {C343DA94-8ECB-46F5-9FF8-6BB90A93624C}
+name: Image callout
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+created: 20190527T015854Z
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{A6379897-9057-4177-888A-BCB831F43BE5}
+----field----
+field: {F7D48A55-2158-4F02-9356-756654404F73}
+name: __Standard values
+key: __standard values
+content-length: 38
+
+{C98CEDFD-0AB9-4919-99B7-C9B9F1EA2B0B}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 85
+
+http://allegromicrosystems.local/temp/iconcache/applications/32x32/photo_portrait.png
+----version----
+language: en
+version: 1
+revision: 820e3be4-3cf5-4101-b232-be9e99c8e511
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190524T072103Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+820e3be4-3cf5-4101-b232-be9e99c8e511
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190527T020235Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

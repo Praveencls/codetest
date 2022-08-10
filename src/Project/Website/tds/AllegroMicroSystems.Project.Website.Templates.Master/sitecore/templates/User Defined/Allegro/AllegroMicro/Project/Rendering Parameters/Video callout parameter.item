@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {0260244F-9413-46D1-A382-8891187FBBE4}
+database: master
+path: /sitecore/templates/User Defined/Allegro/AllegroMicro/Project/Rendering Parameters/Video callout parameter
+parent: {7FC7D6D0-B2DD-403A-8374-882980C1C409}
+name: Video callout parameter
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+created: 20190524T074340Z
+
+----field----
+field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
+name: __Base template
+key: __base template
+content-length: 38
+
+{1013E5AC-C761-4F99-95DB-973A83657470}
+----version----
+language: en
+version: 1
+revision: cf4f804e-f028-40ce-bd3f-f2fb7abcb4e0
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190524T074340Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cf4f804e-f028-40ce-bd3f-f2fb7abcb4e0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190528T082444Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

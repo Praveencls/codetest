@@ -1,0 +1,15 @@
+﻿
+@using CodeTest.Foundation.DynamicPlaceholder.Helpers
+@model CodeTest.Feature.Container.Models.ViewModels.ContainerViewModel
+@{
+    var background = "";
+    
+        if (Model.BackgroundImage != null && Model.BackgroundImage.Image != null)
+        {
+            background = "style=background-image:url('" + Model.BackgroundImage.Image.Src + "') \"";
+        }
+    
+    <div class="container-fluid content-block clearfix body-container @Model.BackgroundPosition" @background >
+        @Html.Sitecore().DynamicPlaceholder("main-content")
+    </div>
+}

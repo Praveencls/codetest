@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {C3142C73-E07A-481E-A286-76710E7E985E}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Shared Content/Page Structure
+parent: {DE7B8093-D66A-4FD2-8BEF-1BDA0A8E7DD7}
+name: Page Structure
+master: {94F19369-C5B5-42E9-B073-2CE72F9632BF}
+template: {1C4DB999-6CAC-4DFD-B24C-7CC96CEB1EDE}
+templatekey: Page Structure
+created: 20190417T023420Z
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{6C10AF4B-4CB9-4EED-AD1F-56DB0B1EE051}
+----version----
+language: en
+version: 1
+revision: a4a1e88d-eede-48d8-ba91-6ff543cd3b02
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T023420Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a4a1e88d-eede-48d8-ba91-6ff543cd3b02
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190417T023420Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

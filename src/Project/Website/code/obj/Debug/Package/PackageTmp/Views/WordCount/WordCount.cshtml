@@ -1,0 +1,21 @@
+﻿@using Sitecore.Mvc.Presentation
+
+@{ 
+    var resultCount = !string.IsNullOrEmpty(RenderingContext.Current.Rendering.Parameters["Result Count"]) ? RenderingContext.Current.Rendering.Parameters["Result Count"] : "";
+}
+<div class="alternate-callout1-grey shadow-t-b">
+    <div class="main-secton-division d-none d-lg-block d-xl-block">
+        <div class="container content-block">
+            <div class="clearfix word-editor">
+                <b>@Html.Raw("Copy your text here which you want to count word occurrance")</b><br /><br />
+                <textarea id="txtAreaForWord" style="height:200px; width:600px;" style="float:left1;"></textarea>
+                <input type="button" title="Submit" value="Submit" class="submit-btn-word" />
+            </div>
+            <div id="word-count-report" class="word-count-report" style="margin:30px 0;" data-count="@resultCount">
+                <div id='loadingmessage' style='display:none'>
+                    <img src="~/dist/images/bx_loader.gif" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

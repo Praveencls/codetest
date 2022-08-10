@@ -1,0 +1,111 @@
+----item----
+version: 1
+id: {1624F8A2-10E8-4F2A-9166-DC0C99B0DD51}
+database: master
+path: /sitecore/content/Allegro/AllegroMicro/Site Settings
+parent: {6FADE8CD-3216-4B7F-86DC-11844EA50828}
+name: Site Settings
+master: {94F19369-C5B5-42E9-B073-2CE72F9632BF}
+template: {33927A43-078A-4A2B-9D00-01F97E5D3B0B}
+templatekey: Settings
+created: 20190417T023420Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{A761633E-6D8A-415A-B0AA-9182CB009EAD}
+----version----
+language: en
+version: 1
+revision: 639e4b44-59ac-4e41-9190-4965270cc4be
+
+----field----
+field: {99B98233-3D9D-44ED-A790-0AAF20CAB328}
+name: Head Code
+key: head code
+content-length: 600
+
+<!-- Google Tag Manager -->
+    <script type="text/plain" class="optanon-category-2">
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WFFD5L');
+    </script>
+    <!-- End Google Tag Manager -->
+
+----field----
+field: {EB732EFB-F3EC-4B0B-B3C9-E588B7DE2D0C}
+name: Body Code
+key: body code
+content-length: 284
+
+<!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFFD5L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+----field----
+field: {ECBE5535-7811-4EAA-B7D0-07CA4973586D}
+name: SupportedLanguages
+key: supportedlanguages
+content-length: 116
+
+{AF584191-45C9-4201-8740-5409F4CF8BDD}|{6935D1D5-A458-4F37-AE51-03D8720CB5CB}|{172D25D5-6841-4594-A7C5-880FE7E29DB8}
+----field----
+field: {D0F2D303-1EE4-4DEB-B044-276FCF3D9E20}
+name: Global Search Page
+key: global search page
+content-length: 38
+
+{8325CA21-0E61-4D54-9F0C-4CAB9FD779E6}
+----field----
+field: {17939E2A-918E-4B45-9098-C50EECD31CC2}
+name: Sales Contacts
+key: sales contacts
+content-length: 38
+
+{06C41329-08FF-462B-BF2E-F38B16A0430E}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190417T023420Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+639e4b44-59ac-4e41-9190-4965270cc4be
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190505T024425Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
